@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Gener8</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Galleries on Gener8</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/gallery/sailing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/sailing/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;../products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;../products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;../products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;../products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;../products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;../post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/gallery/inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/inside/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;../products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;../products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;../products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;../products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;../products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;../post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/gallery/outside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/outside/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;../images/gener8-logo.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;it-building-blocks:dbcac643d993b442cd3505abbe98b66e&#34;&gt;IT Building Blocks&lt;/h3&gt;
+
+&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
+
+&lt;h3 id=&#34;gener8-pb:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-PB&lt;/h3&gt;
+
+&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
+&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
+&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
+&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
+&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.5 PB&lt;/li&gt;
+&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
+&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
+&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hc:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-HC&lt;/h3&gt;
+
+&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-1:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
+&lt;li&gt;288 logical CPU cores&lt;/li&gt;
+&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
+&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hd:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-HD&lt;/h3&gt;
+
+&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.gener8Logo {margin: -15px 0 0 0;}
+    .title { display: none;}
+    .separator-2 { display: none;}
+    .separator-2 + p { display: none;}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

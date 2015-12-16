@@ -9,20 +9,106 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gener8</title>
-      <link>http://localhost:1313/gener8/</link>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact-us/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gener8/</guid>
+      <guid>http://localhost:1313/contact-us/contact-us/</guid>
+      <description>
+
+&lt;h3 id=&#34;europe:70180c54893436729e3367503c70a6ee&#34;&gt;Europe&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:europe@greenitglobe.com&#34;&gt;europe@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Belgium +32499504050&lt;br /&gt;
+Call Vienna +436643001917&lt;br /&gt;
+Call Rotterdam +31611615262&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2505.869058630841!2d3.8203244!3d51.092424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c377c098522c81%3A0x4bda55913dea76a!2sAntwerpse+Steenweg+19%2C+9080+Lochristi%2C+Belgium!5e0!3m2!1sen!2sae!4v1439990827818&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;mena:70180c54893436729e3367503c70a6ee&#34;&gt;MENA&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:mena@greenitglobe.com&#34;&gt;mena@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Dubai +971525609018&lt;br /&gt;
+Call Cairo +20224174744&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.7403913220564!2d55.3358774!3d25.211976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f67f54f39b219%3A0x4e943cb251b3605f!2sMidworldPro+Warehouse!5e0!3m2!1sen!2sae!4v1439992123027&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;russia:70180c54893436729e3367503c70a6ee&#34;&gt;Russia&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:russia@greenitglobe.com&#34;&gt;russia@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Moskow +79104048886&lt;/p&gt;
+
+&lt;h3 id=&#34;south-africa:70180c54893436729e3367503c70a6ee&#34;&gt;South Africa&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:safrica@greenitglobe.com&#34;&gt;safrica@greenitglobe.com&lt;/a&gt;
++2761 453 6834&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact-us/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact-us/register/</guid>
+      <description>
+
+&lt;h3 id=&#34;europe:12c1ba14a07e2e06d355892b0a257df3&#34;&gt;Europe&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:europe@greenitglobe.com&#34;&gt;europe@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Belgium +32499504050&lt;br /&gt;
+Call Vienna +436643001917&lt;br /&gt;
+Call Rotterdam +31611615262&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2505.869058630841!2d3.8203244!3d51.092424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c377c098522c81%3A0x4bda55913dea76a!2sAntwerpse+Steenweg+19%2C+9080+Lochristi%2C+Belgium!5e0!3m2!1sen!2sae!4v1439990827818&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;mena:12c1ba14a07e2e06d355892b0a257df3&#34;&gt;MENA&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:mena@greenitglobe.com&#34;&gt;mena@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Dubai +971525609018&lt;br /&gt;
+Call Cairo +20224174744&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.7403913220564!2d55.3358774!3d25.211976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f67f54f39b219%3A0x4e943cb251b3605f!2sMidworldPro+Warehouse!5e0!3m2!1sen!2sae!4v1439992123027&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;russia:12c1ba14a07e2e06d355892b0a257df3&#34;&gt;Russia&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:russia@greenitglobe.com&#34;&gt;russia@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Moskow +79104048886&lt;/p&gt;
+
+&lt;h3 id=&#34;south-africa:12c1ba14a07e2e06d355892b0a257df3&#34;&gt;South Africa&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:safrica@greenitglobe.com&#34;&gt;safrica@greenitglobe.com&lt;/a&gt;
++2761 453 6834&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/gallery/outside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/outside/</guid>
       <description>
 
 &lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;./images/gener8-logo.png&#34;&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;it-building-blocks:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;IT Building Blocks&lt;/h3&gt;
+&lt;h3 id=&#34;it-building-blocks:dbcac643d993b442cd3505abbe98b66e&#34;&gt;IT Building Blocks&lt;/h3&gt;
 
 &lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
 
-&lt;h3 id=&#34;gener8-pb:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-PB&lt;/h3&gt;
+&lt;h3 id=&#34;gener8-pb:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-PB&lt;/h3&gt;
 
 &lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
 
@@ -34,7 +120,7 @@
 &lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;technical:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Technical&lt;/h4&gt;
+&lt;h4 id=&#34;technical:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Technical&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;1.5 PB&lt;/li&gt;
@@ -45,11 +131,11 @@
 &lt;li&gt;Height of building block is 140cm&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;gener8-hc:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-HC&lt;/h3&gt;
+&lt;h3 id=&#34;gener8-hc:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-HC&lt;/h3&gt;
 
 &lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
 
-&lt;h4 id=&#34;technical-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Technical&lt;/h4&gt;
+&lt;h4 id=&#34;technical-1:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Technical&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;1980 net usable GB memory&lt;/li&gt;
@@ -60,7 +146,278 @@
 &lt;li&gt;Height of building block is 140cm&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;gener8-hd:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-HD&lt;/h3&gt;
+&lt;h3 id=&#34;gener8-hd:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-HD&lt;/h3&gt;
+
+&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.gener8Logo {margin: -15px 0 0 0;}
+    .title { display: none;}
+    .separator-2 { display: none;}
+    .separator-2 + p { display: none;}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/gallery/sailing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/sailing/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/gallery/inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/inside/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/greenboats/green-tech-options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/green-tech-options/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;./images/gener8-logo.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;it-building-blocks:451dccf44150666581484a0d89d4b37b&#34;&gt;IT Building Blocks&lt;/h3&gt;
+
+&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
+
+&lt;h3 id=&#34;gener8-pb:451dccf44150666581484a0d89d4b37b&#34;&gt;Gener8-PB&lt;/h3&gt;
+
+&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
+&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
+&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
+&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
+&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical:451dccf44150666581484a0d89d4b37b&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.5 PB&lt;/li&gt;
+&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
+&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
+&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hc:451dccf44150666581484a0d89d4b37b&#34;&gt;Gener8-HC&lt;/h3&gt;
+
+&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-1:451dccf44150666581484a0d89d4b37b&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
+&lt;li&gt;288 logical CPU cores&lt;/li&gt;
+&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
+&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hd:451dccf44150666581484a0d89d4b37b&#34;&gt;Gener8-HD&lt;/h3&gt;
+
+&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.gener8Logo {margin: -15px 0 0 0;}
+    .title { display: none;}
+    .separator-2 { display: none;}
+    .separator-2 + p { display: none;}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/greenboats/compare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/compare/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/greenboats/greenboats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/greenboats/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/greenboats/specifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/specifications/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;./images/gener8-logo.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;it-building-blocks:ea143bba157429c58a3ba7f3185734df&#34;&gt;IT Building Blocks&lt;/h3&gt;
+
+&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
+
+&lt;h3 id=&#34;gener8-pb:ea143bba157429c58a3ba7f3185734df&#34;&gt;Gener8-PB&lt;/h3&gt;
+
+&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
+&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
+&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
+&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
+&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical:ea143bba157429c58a3ba7f3185734df&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.5 PB&lt;/li&gt;
+&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
+&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
+&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hc:ea143bba157429c58a3ba7f3185734df&#34;&gt;Gener8-HC&lt;/h3&gt;
+
+&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-1:ea143bba157429c58a3ba7f3185734df&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
+&lt;li&gt;288 logical CPU cores&lt;/li&gt;
+&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
+&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hd:ea143bba157429c58a3ba7f3185734df&#34;&gt;Gener8-HD&lt;/h3&gt;
+
+&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.gener8Logo {margin: -15px 0 0 0;}
+    .title { display: none;}
+    .separator-2 { display: none;}
+    .separator-2 + p { display: none;}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/greenboats/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/video/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;./images/gener8-logo.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;it-building-blocks:600eefab925225e212d3bb49c48e494a&#34;&gt;IT Building Blocks&lt;/h3&gt;
+
+&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
+
+&lt;h3 id=&#34;gener8-pb:600eefab925225e212d3bb49c48e494a&#34;&gt;Gener8-PB&lt;/h3&gt;
+
+&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
+&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
+&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
+&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
+&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical:600eefab925225e212d3bb49c48e494a&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.5 PB&lt;/li&gt;
+&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
+&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
+&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hc:600eefab925225e212d3bb49c48e494a&#34;&gt;Gener8-HC&lt;/h3&gt;
+
+&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-1:600eefab925225e212d3bb49c48e494a&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
+&lt;li&gt;288 logical CPU cores&lt;/li&gt;
+&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
+&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hd:600eefab925225e212d3bb49c48e494a&#34;&gt;Gener8-HD&lt;/h3&gt;
 
 &lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
 
@@ -92,55 +449,12 @@
     </item>
     
     <item>
-      <title>intro_slider_box</title>
-      <link>http://localhost:1313/home/intro_slider_box/</link>
+      <title>product</title>
+      <link>http://localhost:1313/home/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/intro_slider_box/</guid>
+      <guid>http://localhost:1313/home/product/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>http://localhost:1313/contactus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contactus/</guid>
-      <description>
-
-&lt;h3 id=&#34;europe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Europe&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:europe@greenitglobe.com&#34;&gt;europe@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
-Call Belgium +32499504050&lt;br /&gt;
-Call Vienna +436643001917&lt;br /&gt;
-Call Rotterdam +31611615262&lt;/p&gt;
-
-&lt;div class=&#34;caption background-white&#34;&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2505.869058630841!2d3.8203244!3d51.092424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c377c098522c81%3A0x4bda55913dea76a!2sAntwerpse+Steenweg+19%2C+9080+Lochristi%2C+Belgium!5e0!3m2!1sen!2sae!4v1439990827818&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
-                
-&lt;/div&gt; 
-
-&lt;h3 id=&#34;mena:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;MENA&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:mena@greenitglobe.com&#34;&gt;mena@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
-Call Dubai +971525609018&lt;br /&gt;
-Call Cairo +20224174744&lt;/p&gt;
-
-&lt;div class=&#34;caption background-white&#34;&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.7403913220564!2d55.3358774!3d25.211976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f67f54f39b219%3A0x4e943cb251b3605f!2sMidworldPro+Warehouse!5e0!3m2!1sen!2sae!4v1439992123027&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
-                
-&lt;/div&gt; 
-
-&lt;h3 id=&#34;russia:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Russia&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:russia@greenitglobe.com&#34;&gt;russia@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
-Call Moskow +79104048886&lt;/p&gt;
-
-&lt;h3 id=&#34;south-africa:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;South Africa&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:safrica@greenitglobe.com&#34;&gt;safrica@greenitglobe.com&lt;/a&gt;
-+2761 453 6834&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -153,120 +467,22 @@ Call Moskow +79104048886&lt;/p&gt;
     </item>
     
     <item>
-      <title>IT As Energy</title>
-      <link>http://localhost:1313/it-as-energy</link>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/our-mission/our-mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/it-as-energy</guid>
-      <description>
+      <guid>http://localhost:1313/our-mission/our-mission/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
 
-&lt;h2 id=&#34;it-energy:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;IT = Energy&lt;/h2&gt;
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Energy is driving our global economy and the welfare of our society. The importance of Energy is driving the creation and adoption of new Energy sources, such as solar and hydro power, renewable and Green Energy, so more and more people can take advantage of it.&lt;/p&gt;
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
 
-&lt;p&gt;But IT is also Energy.
-The reliance on IT as natural resource for companies and society is as important as electricity. Electricity was the primary energy source for the industrial revolution to happen, disrupting the agricultural society. But now we have entered the informational revolution in which IT is the primary resource for computer automation and ubiquitous digitization.&lt;/p&gt;
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
 
-&lt;h2 id=&#34;it-evolution:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;IT Evolution&lt;/h2&gt;
-
-&lt;p&gt;IT has evolved into the integration and stacking of thousands of independant IT components,  dedicated servers, storage systems and networking hardware. This led to very complex and unreliable infrastructure stack which is very costly to maintain.&lt;/p&gt;
-
-&lt;p&gt;Virtualization enabled the spread IT workloads over different hardware, while the IT workloads took up less capacity from the dedicated servers. This led to a reduction in power consumption and more flexibility to create new and maintain existing IT workloads.&lt;/p&gt;
-
-&lt;p&gt;Today we have entered “The Cloud” era in which IT workloads can be created faster as no dedicated hardware needs to be purchased and installed. The interfaces provide great flexibility to IT administrators to manage and maintain IT workloads, when you consolidate all your workloads in the same Cloud, e.g. Amazon, Microsoft Azure, Google, Rackspace Cloud, etc.&lt;/p&gt;
-
-&lt;p&gt;Cloud services deliver us tools and interfaces which make it easy to organize and maintain virtualized workloads. Painfully, all this extra flexibility results in a more abstract use of IT without any standardisation. Each cloud works completely different and behaves different when running business applications and a variety of IT workloads.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-comes-after-cloud-it-as-energy:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;What Comes After Cloud? IT as Energy!&lt;/h2&gt;
-
-&lt;p&gt;Green IT Globe introduces the IT as Energy concept to deliver only the benefits from cloud services, but not its limitations and complexity.&lt;/p&gt;
-
-&lt;p&gt;Green IT Globe delivers its concept through “IT As Energy Generators” based on the requirements of many customers asking for following benefits:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lower my Total Cost of Ownership&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Make my IT Secure and Private&lt;/li&gt;
-&lt;li&gt;Make my IT Extremely Simple&lt;/li&gt;
-&lt;li&gt;Make my IT Ultra Reliable&lt;/li&gt;
-&lt;li&gt;Make my IT Available Everywhere&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>product</title>
-      <link>http://localhost:1313/home/product/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/product/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thank you!</title>
-      <link>http://localhost:1313/thank-you</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/thank-you</guid>
-      <description>
-
-&lt;h3 id=&#34;the-white-paper-will-be-sent-to-you-in-the-next-24-hours:ef28a5e2fe67f4c2122451e2e025a17b&#34;&gt;The white paper will be sent to you in the next 24 hours.&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>White Papers</title>
-      <link>http://localhost:1313/white-papers</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/white-papers</guid>
-      <description>
-
-&lt;h4 id=&#34;learn-all-about-the-revolutionary-technology-and-green-it-globe-s-vision-to-disrupt-the-it-industry:89e2c4d2b560f318f69c1fbf4e7598f9&#34;&gt;Learn all about the revolutionary technology and Green IT Globe’s vision to disrupt the IT industry.&lt;/h4&gt;
-
-&lt;form id=&#34;contact-form&#34; action=&#34;//formspree.io/sacha@greenitglobe.com&#34; method=&#34;POST&#34; class=&#34;col-md-6&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;/en/thank-you&#34; /&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_subject&#34; value=&#34;Message from Green IT Globe&#34; /&gt;
-    &lt;input type=&#34;text&#34; name=&#34;_gotcha&#34; style=&#34;display:none&#34; /&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Your Name&#34; class=&#34;form-control&#34;&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34; placeholder=&#34;Your E-mail&#34; class=&#34;form-control&#34;&gt;
-    &lt;input type=&#34;company_name&#34; name=&#34;company_name&#34; placeholder=&#34;Company Name&#34; class=&#34;form-control&#34;&gt;
-    &lt;input type=&#34;company_website&#34; name=&#34;company_website&#34; placeholder=&#34;Company Website&#34; class=&#34;form-control&#34;&gt;
-    &lt;select name=&#34;why_intrested&#34; class=&#34;form-control&#34;&gt;
-        &lt;option selected disabled&gt;Why you are intrested&lt;/option&gt;
-        &lt;option&gt;Just curious&lt;/option&gt;
-        &lt;option&gt;Would potentially like to evaluation the technology&lt;/option&gt;
-        &lt;option&gt;Would potentially like to invest&lt;/option&gt;
-        &lt;option&gt;Would potentially like to partner with you&lt;/option&gt;
-        &lt;option&gt;Would potentially like to use this in my company&lt;/option&gt;
-        &lt;option&gt;would potentially like to work for you&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;select name=&#34;White_paper&#34; class=&#34;form-control&#34;&gt;
-        &lt;option&gt;IT as Energy White Paper&lt;/option&gt;
-        &lt;option&gt;Gener8 Storage White Paper&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;textarea rows=&#34;4&#34; cols=&#34;50&#34; name=&#34;message&#34; placeholder=&#34;Your Message&#34; class=&#34;form-control&#34;&gt;&lt;/textarea&gt; 
-    &lt;button  type=&#34;submit&#34; value=&#34;Send&#34; class=&#34;btn btn-success&#34;&gt;Submit&lt;/button&gt;
-&lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>footer_box</title>
-      <link>http://localhost:1313/home/footer_box/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/footer_box/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>solution_section</title>
-      <link>http://localhost:1313/home/solution_section/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/solution_section/</guid>
-      <description></description>
     </item>
     
   </channel>

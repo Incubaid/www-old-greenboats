@@ -10,13 +10,13 @@
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contactus/</link>
+      <link>http://localhost:1313/contactus/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contactus/</guid>
+      <guid>http://localhost:1313/contactus/contact-us/</guid>
       <description>
 
-&lt;h3 id=&#34;europe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Europe&lt;/h3&gt;
+&lt;h3 id=&#34;europe:70180c54893436729e3367503c70a6ee&#34;&gt;Europe&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:europe@greenitglobe.com&#34;&gt;europe@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
 Call Belgium +32499504050&lt;br /&gt;
@@ -28,7 +28,7 @@ Call Rotterdam +31611615262&lt;/p&gt;
                 
 &lt;/div&gt; 
 
-&lt;h3 id=&#34;mena:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;MENA&lt;/h3&gt;
+&lt;h3 id=&#34;mena:70180c54893436729e3367503c70a6ee&#34;&gt;MENA&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:mena@greenitglobe.com&#34;&gt;mena@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
 Call Dubai +971525609018&lt;br /&gt;
@@ -39,12 +39,12 @@ Call Cairo +20224174744&lt;/p&gt;
                 
 &lt;/div&gt; 
 
-&lt;h3 id=&#34;russia:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Russia&lt;/h3&gt;
+&lt;h3 id=&#34;russia:70180c54893436729e3367503c70a6ee&#34;&gt;Russia&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:russia@greenitglobe.com&#34;&gt;russia@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
 Call Moskow +79104048886&lt;/p&gt;
 
-&lt;h3 id=&#34;south-africa:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;South Africa&lt;/h3&gt;
+&lt;h3 id=&#34;south-africa:70180c54893436729e3367503c70a6ee&#34;&gt;South Africa&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:safrica@greenitglobe.com&#34;&gt;safrica@greenitglobe.com&lt;/a&gt;
 +2761 453 6834&lt;/p&gt;

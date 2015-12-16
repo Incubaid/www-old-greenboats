@@ -1,35 +1,30 @@
 {{ partial "head.html" . }}
-	<body class="page-bg preload">
-<!-- Preloader 
-    ============================================ -->
-    <div class="page-preloader">
-      <div class="vcenter"> <div class="vcenter-this"><img class="anim" src="images/loader.gif" alt="loading..." /></div></div>
-    </div>
-    <!-- /Preloader 
-    ============================================ --> 
-    
-    <!-- Page Wrapper
-    ++++++++++++++++++++++++++++++++++++++++++++ -->
-    <div class="page-wrapper">
-		
-
-
-			{{ partial "header.html" . }}
-			{{ partial "home_page/intro_slider.html" . }}
-			{{ partial "home_page/product.html" . }}
-			{{ partial "home_page/second_section.html" . }}
-			{{ partial "home_page/solution.html" . }}
-			
-			{{ partial "footer.html" . }}
-	</div>	
-	<!-- JAVASCRIPT FILES -->
-	<script src="/js/jquery-latest.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/uikit.min.js"></script>
-
-
-	</body>
+{{ partial "header.html" . }}
+{{ partial "home_page/intro_slider.html" . }}
+{{ partial "home_page/second_section.html" . }}		
+{{ partial "footer.html" . }}
+</div>
+<!-- /.container --> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="js/ga.js" type="text/javascript"></script> 
+<script type="text/javascript">
+  try{
+  var pageTracker = _gat._getTracker("UA-26242914-1");
+  pageTracker._trackPageview();
+  } catch(err) {}
+</script> 
+<script type="text/javascript">
+!function ($) {
+    $(function () {
+        // carousel demo
+        $('#myCarousel').carousel()
+    })
+} (window.jQuery)
+</script>
+</body>
 </html>
-
 
 

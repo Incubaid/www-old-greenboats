@@ -1,99 +1,40 @@
 
 
-     <!-- Footer
-      =================================================== -->
-      {{ range $element :=  $.Site.Pages }}
-        {{ if eq .Section "home" }}
-          {{ if eq .Title "footer_box" }}
-            <footer class="footer-block">
+ <!-- Footer
+  =================================================== -->
+  {{ range $element :=  $.Site.Pages }}
+    {{ if eq .Section "home" }}
+      {{ if eq .Title "footer_box" }}
+           <footer>
+            <p class="pull-right"><a href="http://www.greenboats.com/greenboats/Home#">Back to top</a></p>
+            <p>© 2013 Green Charters. · <a href="http://www.greenboats.com/greenboats/Home#">Privacy</a> · <a href="http://www.greenboats.com/greenboats/Home#">Terms</a></p>
             
-              <!-- Container -->
-              <div class="container main clearfix">
-              
-                <!-- Brand -->
-                <div class="brand-col">
-                  <div class="brand">
-                    <img src="{{.Params.footer_logo}}" alt="logo"/>
-                  </div>
-                </div>
-                <!-- /Brand -->
-                
-                <!-- Links -->
-                <div class="links-col">
-                  <!-- Row -->
-                  <div class="row-fluid">
-                    <!-- Col -->
-                    <div class="col-xs-6 col-sm-3 col-md-3 col-md-offset-3">
-                      <h5>{{ .Params.first_section}}</h5>
-                      <ul class="v-links">
-                        <li><a href="{{.Params.first_section_link1}}">{{.Params.first_section_title1}}</a></li>
-                        <li><a href="{{.Params.first_section_link2}}">{{.Params.first_section_title2}}</a></li>
-                        <li><a href="{{.Params.first_section_link3}}">{{.Params.first_section_title3}}</a></li>
-                        <li><a href="{{.Params.first_section_link4}}">{{.Params.first_section_title4}}</a></li>
-                      </ul>
-                    </div>
-                    <!-- Col -->
-                    
-                    <!-- Col -->
-                    <div class="col-xs-6 col-sm-3 col-md-3">
-                      <h5>{{ .Params.second_section}}</h5>
-                      <ul class="v-links">
-                        <li><a href="{{.Params.second_section_link1}}">{{.Params.second_section_title1}}</a></li>
-                        <li><a href="{{.Params.second_section_link2}}">{{.Params.second_section_title2}}</a></li>
-                        <li><a href="{{.Params.second_section_link3}}">{{.Params.second_section_title3}}</a></li>
-                        <li><a href="{{.Params.second_section_link4}}">{{.Params.second_section_title4}}</a></li>
-                        <li><a href="{{.Params.second_section_link5}}">{{.Params.second_section_title5}}</a></li>
-                        <li><a href="{{.Params.second_section_link6}}">{{.Params.second_section_title6}}</a></li>
-                      </ul>
-                    </div>
-                    <!-- /Col -->
-                    
-                    <!-- Col -->
-                    <div class="col-xs-6 col-sm-3 col-md-3">
-                      <h5>member</h5>
-                      <ul class="v-links">
-                        <li><a href="{{.Params.third_section_link1}}">{{.Params.third_section_title1}}</a></li>
-                        <li><a href="{{.Params.third_section_link2}}">{{.Params.third_section_title2}}</a></li>
-                        <li><a href="{{.Params.third_section_link3}}">{{.Params.third_section_title3}}</a></li>
-                        <li><a href="{{.Params.third_section_link3}}">{{.Params.third_section_title4}}</a></li>
-                      </ul>
-                    </div>
-                    <!-- /Col -->
-                    
-                    <!-- Col -->
-                    <!--
-                    <div class="col-xs-6 col-sm-3 col-md-3 newsletter">
-                      <h5>newsletter</h5>
-                      <form>
-                        <input type="text" class="form-control" placeholder="Email Address">
-                        <button class="btn btn-primary" type="button">get newsletter</button>
-                      </form>
-                    </div>
-                  -->
-                    <!-- /Col -->
-                 </div>
-                 <!-- /Row -->
-                </div>
-                <!-- /Links -->
-
-              </div>
-              <!-- /Container ->
-              
-              <!-- Bottom -->
-              <div class="bottom">
-                <!-- Container -->
-                <div class="container">
-                  <span class="copy-text">&copy; 2015 Your Corporation. Theme by <a href="#">Rahisi</a> Themes.</span>
-                  
-                </div>
-                <!-- /Container -->
-              </div>
-              <!-- /Bottom -->
-              
-              
-            </footer>
-            {{end}}
+          </footer>
+</div>
+<!-- /.container --> 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="js/ga.js" type="text/javascript"></script> 
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-26242914-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script> 
+<script type="text/javascript">
+!function ($) {
+$(function () {
+// carousel demo
+$('#myCarousel').carousel()
+})
+} (window.jQuery)
+</script>
+</body>
+</html>
         {{end}}
-      {{end}}
-            <!-- /Footer
-            =================================================== -->
+    {{end}}
+  {{end}}
+        <!-- /Footer
+        =================================================== -->
