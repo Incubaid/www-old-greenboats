@@ -394,3 +394,14 @@ border-radius: 5px;
     width:160px;
     }
 }
+
+.dropdown-menu a{
+  background-color: #000;
+  color: #fff;
+}
+
+.dropdown-menu {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}

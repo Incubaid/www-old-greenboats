@@ -1,7 +1,7 @@
 
-      {{ range $element :=  $.Site.Pages }}
+  {{ range $element :=  $.Site.Pages }}
   {{ if eq .Section "home" }}
-      {{ if eq .Title "header" }}  
+  {{ if eq .Title "header" }}  
       
       
      <div class="navbar-wrapper"> 
@@ -13,11 +13,32 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-left">
               <li><a href="/">Home</a></li>
-              <li><a href="/greenboats/greenboats">GreenBoat</a></li>
-              <li><a href="/gallery">Photo Gallery</a></li>
+              <li class="dropdown">
+                <a href="/GreenBoats/greenBoats" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GreenBoat <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/GreenBoats/greenBoats">GreenBoat</a></li>
+                  <li><a href="/GreenBoats/specifications">Specifications</a></li>
+                  <li><a href="/GreenBoats/green-tech-options">Green Tech Options</a></li>
+                  <li><a href="/GreenBoats/compare">Compare</a></li>
+                  <li><a href="/GreenBoats/video">Video</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="/gallery" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Photo Gallery <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/gallery/inside">Inside</a></li>
+                  <li><a href="/gallery/outside">Outside</a></li>
+                  <li><a href="/gallery/sailing">Sailling</a></li>
+                </ul>
+              </li>
+              
               <li><a href="/shows">Shows</a></li>
               <li><a href="/our-mission">Our Mission</a></li>
               <li><a href="/contact-us">Contact Us</a></li>
+
+              
+
+
             </ul>
             <ul class="nav navbar pull-right">
               <li> <a href="javascript:;" onclick="nextElementSibling.submit();">Login</a>

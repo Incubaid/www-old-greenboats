@@ -9,21 +9,39 @@
     <atom:link href="http://localhost:1313/our-mission/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Environmental management</title>
+      <title>Our Mission</title>
       <link>http://localhost:1313/our-mission/our-mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/our-mission/our-mission/</guid>
-      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;../products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;../products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;../products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;../products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;our-mission:ce695a4aacf984d0b2ba0a40d038460d&#34;&gt;Our Mission&lt;/h2&gt;
 
-&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
-Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+&lt;p&gt;We believe that today people looking for a catamaran between 46 &amp;amp; 60 feet only have 2 options.&lt;/p&gt;
 
-&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;../products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+&lt;p&gt;We believe there is a market for a boat with a different approach as outligned in the following diagram.&lt;/p&gt;
 
-&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;../post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/GreenCatSwot.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;GreenBoats has been looking for the right parther which can build the GreenBoat. We found Nautitech&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nautitech brings 20+ years of experience building safe &amp;amp; high performance sailing boats &amp;amp; catamarans see &lt;a href=&#34;http://www.nautitech.com&#34;&gt;www.nautitech.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Since 1994, Nautitech has been one of the largest catamaran builders in France.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;../greenboats&#34;&gt;Read More&lt;/a&gt; about all the features and advantages of &lt;a href=&#34;../greenboats/greenboats&#34;&gt;GreenBoat&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;../greenboats/compare&#34;&gt;Read More&lt;/a&gt; About How We Compare Catamarans.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+h2{
+    font-weight: normal;
+    color: #000;
+}
+&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     

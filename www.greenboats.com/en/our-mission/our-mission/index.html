@@ -18,7 +18,7 @@
 <link href="../../css/custom.css" type="text/css" rel="stylesheet">
 </head>
 
-      
+  
   
       
   
@@ -38,13 +38,11 @@
   
       
   
-      
-  
-      
-        
-      
   
         
+      
+  
+    
       
       
      <div class="navbar-wrapper"> 
@@ -56,11 +54,32 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-left">
               <li><a href="../../">Home</a></li>
-              <li><a href="../../greenboats/greenboats">GreenBoat</a></li>
-              <li><a href="../../gallery">Photo Gallery</a></li>
+              <li class="dropdown">
+                <a href="../../greenboats/greenboats" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GreenBoat <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">GreenBoat</a></li>
+                  <li><a href="#">Specifications</a></li>
+                  <li><a href="#">Green Tech Options</a></li>
+                  <li><a href="#">Compare</a></li>
+                  <li><a href="#">Video</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="../../gallery" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Photo Gallery <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Inside</a></li>
+                  <li><a href="#">Outside</a></li>
+                  <li><a href="#">Sailling</a></li>
+                </ul>
+              </li>
+              
               <li><a href="../../shows">Shows</a></li>
               <li><a href="../../our-mission">Our Mission</a></li>
               <li><a href="../../contact-us">Contact Us</a></li>
+
+              
+
+
             </ul>
             <ul class="nav navbar pull-right">
               <li> <a href="javascript:;" onclick="nextElementSibling.submit();">Login</a>
@@ -85,23 +104,11 @@
         
       
   
-      
+  
         
       
   
-      
-        
-      
   
-      
-  
-      
-  
-      
-        
-      
-  
-      
         
       
   
@@ -109,8 +116,22 @@
   
       
   
-      
+  
         
+      
+  
+      
+  
+  
+        
+      
+  
+      
+  
+  
+        
+      
+  
       
   
       
@@ -127,23 +148,44 @@
 <div class="container">
 <div class="row-fluid page-content">
 <div class="span3">
-<button class="c-hamburger c-hamburger--htla" title="Topics" style="display: none;"><span>toggle hamburger</span></button><div class="well sidebar-nav hide" style="display: block;"><li class="nav-page-active"><a href="./ourMission.html"><i class=""></i>Our Mission</a></li>
+<button class="c-hamburger c-hamburger--htla" title="Topics" style="display: none;"><span>toggle hamburger</span></button>
+<div class="well sidebar-nav hide" style="display: block;"><li class="nav-page-active"><a href="./our-mission.html"><i class=""></i>Our Mission</a></li>
 </div>
 </div>
 <div class="span9">
-<h2 class="title">Our Mission</h2>
+
+
+<h2 id="our-mission:ce695a4aacf984d0b2ba0a40d038460d">Our Mission</h2>
+
 <p>We believe that today people looking for a catamaran between 46 &amp; 60 feet only have 2 options.</p>
+
 <p>We believe there is a market for a boat with a different approach as outligned in the following diagram.</p>
-<p><img src="../../images/GreenCatSwot.png" alt="GreenCatSwot.png" style="clear:both;"></p>
-<p>GreenBoats has been looking for the right parther which can build the GreenBoat. We found Nautitech.</p>
+
+<p><img src="../../images/GreenCatSwot.png" alt="image" />
+</p>
+
+<p>GreenBoats has been looking for the right parther which can build the GreenBoat. We found Nautitech</p>
+
 <ul>
-<li>Nautitech brings 20+ years of experience building safe &amp; high performance sailing boats &amp; catamarans see <a href="http://www.nautitech.com/">http://www.nautitech.com</a></li>
+<li>Nautitech brings 20+ years of experience building safe &amp; high performance sailing boats &amp; catamarans see <a href="http://www.nautitech.com">www.nautitech.com</a></li>
 <li>Since 1994, Nautitech has been one of the largest catamaran builders in France.</li>
 </ul>
-<p><a href="./GreenBoat.html">Read More</a> about all the features and advantages of <a href="./GreenBoat.html">GreenBoat</a>.</p>
-<p><a href="./Compare.html">Read More About How We Compare Catamarans</a> .</p>
+
+<p><a href="../../greenboats">Read More</a> about all the features and advantages of <a href="../../greenboats/greenboats">GreenBoat</a>.</p>
+
+<p><a href="../../greenboats/compare">Read More</a> About How We Compare Catamarans.</p>
+
+<p><style type="text/css">
+h2{
+    font-weight: normal;
+    color: #000;
+}
+</style></p>
+
 </div>
+
 </div>
+
 
 <hr class="featurette-divider">
 
@@ -171,8 +213,6 @@
     
   
     
-  
-    
       
     
   
@@ -182,14 +222,6 @@
   
     
       
-    
-  
-    
-      
-    
-  
-    
-  
     
   
     
@@ -229,15 +261,25 @@ $('#myCarousel').carousel()
     
   
     
+  
+    
+  
+    
       
     
   
     
   
     
+      
+    
+  
+    
   
     
       
+    
+  
     
   
     

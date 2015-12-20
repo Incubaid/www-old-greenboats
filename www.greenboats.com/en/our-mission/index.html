@@ -18,7 +18,7 @@
 <link href="../../css/custom.css" type="text/css" rel="stylesheet">
 </head>
 
-      
+  
   
       
   
@@ -36,15 +36,11 @@
   
       
   
-      
-  
-      
-  
-      
-        
-      
   
         
+      
+  
+    
       
       
      <div class="navbar-wrapper"> 
@@ -56,11 +52,32 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-left">
               <li><a href="../../">Home</a></li>
-              <li><a href="../../greenboats/greenboats">GreenBoat</a></li>
-              <li><a href="../../gallery">Photo Gallery</a></li>
+              <li class="dropdown">
+                <a href="../../GreenBoats/greenBoats" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GreenBoat <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="../../GreenBoats/greenBoats">GreenBoat</a></li>
+                  <li><a href="../../GreenBoats/specifications">Specifications</a></li>
+                  <li><a href="../../GreenBoats/green-tech-options">Green Tech Options</a></li>
+                  <li><a href="../../GreenBoats/compare">Compare</a></li>
+                  <li><a href="../../GreenBoats/video">Video</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="../../gallery" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Photo Gallery <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="../../gallery/inside">Inside</a></li>
+                  <li><a href="../../gallery/outside">Outside</a></li>
+                  <li><a href="../../gallery/sailing">Sailling</a></li>
+                </ul>
+              </li>
+              
               <li><a href="../../shows">Shows</a></li>
               <li><a href="../../our-mission">Our Mission</a></li>
               <li><a href="../../contact-us">Contact Us</a></li>
+
+              
+
+
             </ul>
             <ul class="nav navbar pull-right">
               <li> <a href="javascript:;" onclick="nextElementSibling.submit();">Login</a>
@@ -85,23 +102,17 @@
         
       
   
+  
+        
       
+  
+  
         
       
   
       
-        
-      
   
-      
   
-      
-  
-      
-        
-      
-  
-      
         
       
   
@@ -109,8 +120,16 @@
   
       
   
-      
+  
         
+      
+  
+  
+        
+      
+  
+      
+  
       
   
       
@@ -122,36 +141,49 @@
     padding-bottom: 0px;
 }
 </style>
-  <div class="container marketing">
+
+
+<div class="container marketing">
 <div class="container">
 <div class="row-fluid page-content">
 <div class="span3">
-<button class="c-hamburger c-hamburger--htla" title="Topics" style="display: none;"><span>toggle hamburger</span></button><div class="well sidebar-nav hide" style="display: block;"><li><a href="../../inside.html"><i class=""></i>Inside</a></li>
-<li><a href="../../outside.html"><i class=""></i>Outside</a></li>
-<li><a href="../../sailing.html"><i class=""></i>Sailing</a></li>
+	
+
+
+
 </div>
 </div>
 <div class="span9">
-<h1 class="title">Gallery</h1>
-<table width="80%">
-<tbody><tr><td>Inside Photos</td><td>Outside Photos</td></tr>
-<tr><td>
-<p><a href="../../Inside.html"><img src="../../images/inside.jpg" alt="inside.jpg" style="clear:both;width: 300px"></a></p>
-</td><td>
-<p><a href="../../Outside.html"><img src="../../images/outside.jpg" alt="outside.jpg" style="clear:both;width: 300px"></a></p>
-</td></tr>
-<tr><td></td><td></td></tr>
-<tr><td>Sailing Photos</td></tr><tr>
-</tr><tr><td>
-<p><a href="../../Sailing.html"><img src="../../images/sailing.jpg" alt="sailing.jpg" style="clear:both;width: 300px"></a></p>
-</td>
-</tr></tbody></table>
+<h2 class="title">Our Mission</h2>
+<p>We believe that today people looking for a catamaran between 46 &amp; 60 feet only have 2 options.</p>
+
+<p>We believe there is a market for a boat with a different approach as outligned in the following diagram.</p>
+
+<p><img src="../../images/GreenCatSwot.png" alt="image" />
+</p>
+
+<p>GreenBoats has been looking for the right parther which can build the GreenBoat. We found Nautitech</p>
+
+<ul>
+<li>Nautitech brings 20+ years of experience building safe &amp; high performance sailing boats &amp; catamarans see <a href="http://www.nautitech.com">www.nautitech.com</a></li>
+<li>Since 1994, Nautitech has been one of the largest catamaran builders in France.</li>
+</ul>
+
+<p><a href="../../greenboats">Read More</a> about all the features and advantages of <a href="../../greenboats/greenboats">GreenBoat</a>.</p>
+
+<p><a href="../../greenboats/compare">Read More</a> About How We Compare Catamarans.</p>
+
+<p><style type="text/css">
+h2{
+    font-weight: normal;
+    color: #000;
+}
+</style></p>
+
 </div>
 </div>
 
 <hr class="featurette-divider">
-
-
 
   
 
@@ -175,10 +207,6 @@
     
   
     
-  
-    
-  
-    
       
     
   
@@ -192,8 +220,6 @@
   
     
       
-    
-  
     
   
     
@@ -235,25 +261,24 @@ $('#myCarousel').carousel()
     
   
     
+  
+    
+  
+    
+      
+    
+  
+    
       
     
   
     
   
-    
-  
-    
-      
     
   
     
   
         
 
-<script data-no-instant>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
-		+ ':1313/livereload.js?mindelay=10"></'
-        + 'script>')</script></body>
-</html>
 
 

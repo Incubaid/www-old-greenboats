@@ -1,16 +1,48 @@
 +++
-title= "Environmental management"
-parent = "top"
-summary = "Our environmental sensor beats all others. Packed with relevant features it is the perfect addition to Racktivity monitoring devices."
-image = "/images/environmental-managmeent.jpg"
+title= "GreenBoat"
 +++
-Racktivity developed the [E²Sensor](/products/uptime-maximization-opex-reduction/e2sensor) Family to give you visibility of the environmental situation of your data centers and remote infrastructure.
 
-Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the [EnergySwitch smart PDUs](/products/rack-power-management), [AC²Meter](/products/infrastructure-power-management/ac-power-monitoring-ac2meter) and [DC²Meter](/products/infrastructure-power-management/dc-power-monitoring).
+We present you a revolutionary new catamaran, since we made it to be best in all categories: Design, Green, Performant, High Tech, Spacious, Reliable and Cost Efficient …
 
-The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
-Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…
+Its main characteristics:
 
-The sensors are fully compatible with our [DCPM](/products/power-management-software/dcpm), a Service Provider Infrastructure & Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.
+- A sophisticated and refined boat
+- A light, performant boat
+- Flush-fitting hatches for a clear deck
+- Trendy interior design
 
-Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/data-center-floor-plan-solution-overview)
+![image](/images/s_300x200_r.jpg)
+![image](/images/s_300x200_nauti-54-photo-couv-ok_1302851904.jpg)
+![image](/images/s_300x200_carre_copie_1291628648.jpg)
+
+The boat is the most aesthetic and superior of this category thanks to her thin lines and her interior design done by the French designer Frank Darnet, combined with unique high end and green technology by IT automation specialist Kristof De Spiegeleer. In a word, a vessel made to live and sail!
+
+### A revolutionary concept
+Not each boat can be good in everything. You have boats that are the most energy efficient, those typically will not be the best performers in speed. Our dream of bringing boats to a next level is about combining the best of all boats into a single boat: Combining high tech comfort with energy saving technologies, making our boat greener and more enjoyable than ever, without making concessions to performance and reliability.
+
+
+GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with [Green Tech Options](/GreenBoats/green-tech-options):
+
+- [Green Tech Power Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.
+- [Green Tech Communication Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 with our revolutionary always-on internet connection.
+- [Green Tech Yacht Automation Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 with our remote control system including health - checks that make your boat safer and more reliable.
+- [Green Tech Navigation and Multimedia Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.
+
+### Download
+Could not find bucket pdfs
+
+### Main technical characteristics
+|                        |                 |           |
+| -------------          |:-------------:  | -----:    |
+| Length overall (LOA)   |     54'48''       |     $1600 |
+---
+| Waterline length       |   52'49''       |     $12   |
+| Maximum beam           |   28'05''       |     $1    |
+
+
+
+<style type="text/css">
+.span9 img {
+	width: 190px;
+}
+</style>

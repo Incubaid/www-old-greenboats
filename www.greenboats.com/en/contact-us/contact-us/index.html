@@ -18,7 +18,7 @@
 <link href="../../css/custom.css" type="text/css" rel="stylesheet">
 </head>
 
-      
+  
   
       
   
@@ -38,13 +38,11 @@
   
       
   
-      
-  
-      
-        
-      
   
         
+      
+  
+    
       
       
      <div class="navbar-wrapper"> 
@@ -56,11 +54,32 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-left">
               <li><a href="../../">Home</a></li>
-              <li><a href="../../greenboats/greenboats">GreenBoat</a></li>
-              <li><a href="../../gallery">Photo Gallery</a></li>
+              <li class="dropdown">
+                <a href="../../GreenBoats/greenBoats" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GreenBoat <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="../../GreenBoats/greenBoats">GreenBoat</a></li>
+                  <li><a href="../../GreenBoats/specifications">Specifications</a></li>
+                  <li><a href="../../GreenBoats/green-tech-options">Green Tech Options</a></li>
+                  <li><a href="../../GreenBoats/compare">Compare</a></li>
+                  <li><a href="../../GreenBoats/video">Video</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="../../gallery" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Photo Gallery <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="../../gallery/inside">Inside</a></li>
+                  <li><a href="../../gallery/outside">Outside</a></li>
+                  <li><a href="../../gallery/sailing">Sailling</a></li>
+                </ul>
+              </li>
+              
               <li><a href="../../shows">Shows</a></li>
               <li><a href="../../our-mission">Our Mission</a></li>
               <li><a href="../../contact-us">Contact Us</a></li>
+
+              
+
+
             </ul>
             <ul class="nav navbar pull-right">
               <li> <a href="javascript:;" onclick="nextElementSibling.submit();">Login</a>
@@ -85,35 +104,38 @@
         
       
   
-      
+  
         
       
   
-      
-        
-      
   
-      
-  
-      
-  
-      
-        
-      
-  
-      
         
       
   
       
   
+  
+        
       
   
-      
+  
         
       
   
       
+  
+  
+        
+      
+  
+      
+  
+      
+  
+      
+  
+      
+
 
 <style type="text/css">
   body {
@@ -127,30 +149,56 @@
 <div class="container">
 <div class="row-fluid page-content">
 <div class="span3">
-<button class="c-hamburger c-hamburger--htla" title="Topics" style="display: none;"><span>toggle hamburger</span></button><div class="well sidebar-nav hide" style="display: block;"><li class="nav-page-active"><a href="../../contactUs.html"><i class=""></i>Contact Us</a></li>
-<li><a href="../../register.html"><i class=""></i>Register</a></li>
+	
+
+
+
 </div>
 </div>
 <div class="span9">
 <h2 class="title">Contact Us</h2>
-<p>Pre-register to visit the GreenBoat at the shows now! E-mail us at: <a class="external-link" rel="nofollow" href="mailto:register@greenboats.com">register@greenboats.com</a></p>
-<h3 class="title">GreenBoats Belgium</h3>
+
+
+<p>Pre-register to visit the GreenBoat at the shows now! E-mail us at: register@greenboats.com</p>
+
+<h3 id="greenboats-belgium:70180c54893436729e3367503c70a6ee">GreenBoats Belgium</h3>
+
 <p>7Star BVBA</p>
+
 <p>Antwerpsesteenweg 19</p>
+
 <p>9080 Lochristi</p>
+
 <p>Belgium</p>
-<h3 class="title">Green Boats Rochefort</h3>
+
+<h3 id="green-boats-rochefort:70180c54893436729e3367503c70a6ee">Green Boats Rochefort</h3>
+
 <p>Nautitech</p>
+
 <p>ZI du Canal des Soeurs</p>
+
 <p>17300 Rochefort</p>
+
 <p>France</p>
-<div class="thumbn">
-<p><img src="../../images/s_190x1000_chantier-rochefort2.jpg" alt="s_190x1000_chantier-rochefort2.jpg" style="clear:both;"></p>
-</div>
-<h3 class="title">Locations</h3>
-<div class="thumbn">
-<p><img src="../../images/s_190x1000_LocationIncubaid.jpg" alt="s_190x1000_LocationIncubaid.jpg" style="clear:both;"> <img src="../../images/s_190x1000_nautitechLoc.jpg" alt="s_190x1000_nautitechLoc.jpg" style="clear:both;"></p>
-</div>
+
+<p><img src="../../images/s_190x1000_chantier-rochefort2.jpg" alt="" />
+</p>
+
+<h3 id="locations:70180c54893436729e3367503c70a6ee">Locations</h3>
+
+<p><img src="../../images/s_190x1000_LocationIncubaid.jpg" alt="" />
+</p>
+
+<p><img src="../../images/s_190x1000_nautitechLoc.jpg" alt="" />
+</p>
+
+<p><style type="text/css">
+    .span9 img {
+        width: 190px;<br />
+    }</p>
+
+<p></style></p>
+
 </div>
 </div>
 
@@ -180,8 +228,6 @@
     
   
     
-  
-    
       
     
   
@@ -191,14 +237,6 @@
   
     
       
-    
-  
-    
-      
-    
-  
-    
-  
     
   
     
@@ -238,6 +276,18 @@ $('#myCarousel').carousel()
     
   
     
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
       
     
   
@@ -245,8 +295,6 @@ $('#myCarousel').carousel()
   
     
   
-    
-      
     
   
     

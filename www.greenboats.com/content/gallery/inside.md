@@ -1,5 +1,5 @@
 +++
-title= "Environmental management"
+title= "Inside"
 parent = "top"
 summary = "Our environmental sensor beats all others. Packed with relevant features it is the perfect addition to Racktivity monitoring devices."
 image = "/images/environmental-managmeent.jpg"

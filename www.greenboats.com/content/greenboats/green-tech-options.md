@@ -1,51 +1,77 @@
 +++
-title = "Gener8"
+title = "Option Packages for GreenCat 54 "
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
-### IT Building Blocks
+## Green Tech Power Option
 
-Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.
+Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.
 
-### Gener8-PB
+We install highly-efficient carbon-neutral power generation that uses what you have around you: wind, water and sun.
 
-This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.
+This option package includes:
 
-* Petabyte archive building block, no limits to scalability
-* Power-friendly, comparable with energy for 2 toasters
-* Self-healing and regenarating storage
-* Simplified interfaces, standard fileserver
-* Digital preservation is possible for 30+ years
+- Ultra-silent, powerful, green electrical generators
+- Silent water-maker providing a constant supply of clean water
+- High-capacity long-lasting battery pack
+- Efficient solar panels
+- Cruising hydro generators
+- Super efficient air conditioning, which can run 4-5 hours on batteries alone
+- Inverter with gen-start feature to compensate for higher current needed
+![image](/images/greentechpoweroption.png)
 
-#### Technical
+## Green Tech Communication Option
+Upgrade your Nautitech 54 with our revolutionary always-on internet connection.
 
-* 1.5 PB
-* NAS & SAN Interface
-* 56 Gbit/sec ethernet
-* 2.000 MB/sec ingest speed
-* 1.000.000 IOPs (IO Operations Per Second)
-* Height of building block is 140cm
+Staying connected on a boat can be a nightmare: connections are slow, unstable and expensive.
 
-### Gener8-HC
+We have developed an internet connectivity solution for boats that uses 10 up to 100x less bandwidth than a standard satellite link, saving money and improving performance. Thanks to our intelligent and seamless connectivity selector, we always choose the cheapest communication method available.
 
-The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.
+This option gives you full remote control of your catamaran plus integrated weather and navigation services and, of course, an on-board wireless network.
 
-#### Technical
+This option packages includes the following components:
 
-* 1980 net usable GB memory
-* 288 logical CPU cores
-* 180 TB Ultra High Performance Embedded SAN Capacity
-* 56 gbit/sec internal network backplane
-* 1.000.000 IOPs (IO Operations Per Second)
-* Height of building block is 140cm
+- Always-on efficient internet connectivity using GPRS, 3G, wireless or satellite
+- Two tablets for web browsing, control and navigation
+- Internet router with unique bandwidth saving technology
 
-### Gener8-HD
+![image](/images/greentechcontroloption.png)
 
-Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.
+## Green Tech Yacht Automation Option
+Upgrade your Nautitech 54 with our unique remote control system including automatic health checks that make your boat safer and more reliable.
 
-<style type="text/css">
-.gener8Logo {margin: -15px 0 0 0;}
-	.title { display: none;}
-	.separator-2 { display: none;}
-	.separator-2 + p { display: none;}
-</style>
+Did you ever drive to the marina only to find that the boat wasn’t ready to sail? Now the Green Tech Yacht Automation function detects problems and issues before you even leave the house!
+
+Our automation controls every component on the boat. The system pinpoints specific components to make it easier and faster to carry out repairs. Thanks to the remote access, you have enough time to order the right replacement parts or order boat services. The system can be controlled remotely or on board using notebooks or tablets.
+
+This option packages includes the following components:
+
+- Boat automation central
+- Bridge to navigation systems
+- Boat sensor package: water, temperature, humidity, power, engine, air conditioning
+- Self health check system
+- Remote control system
+- Camera systems for engine rooms and bilges
+- Underwater camera
+- Lighting system with dimmers and LED
+
+![image](/images/greentechautomationoption.png)
+
+## Green Tech Navigation & Multimedia Option
+Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.
+
+We didn’t accept any compromises when we designed this system. We chose the best equipment and the most seamless integration so that our audio/video system brings you the best possible sound quality, an integrated multimedia library and LED touch displays in every room. In combination with the communication package the displays will always include always the latest weather information. We added powerful speakers and a laser show module for parties and music enthusiasts.
+
+This option package includes the following components:
+
+- High-end navigation system
+- Feature-complete including GPS, wind station, Navtech, VHF etc.
+- Access via multiple screens
+- High-definition radar
+- High-end audio/video system
+- Large LED full HD screen
+- Video and audio in each room
+- High-end audio and full HD video experience
+- Reliable high-capacity video/audio library
+
+![image](/images/greentechnavigationoption.png")
+
