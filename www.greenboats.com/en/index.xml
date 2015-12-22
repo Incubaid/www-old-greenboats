@@ -9,15 +9,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Inside Gallery</title>
-      <link>http://localhost:1313/gallery/inside/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gallery/inside/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gener8</title>
       <link>http://localhost:1313/gallery/outside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +70,308 @@
     .separator-2 { display: none;}
     .separator-2 + p { display: none;}
 &lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inside Gallery</title>
+      <link>http://localhost:1313/gallery/inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/inside/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living9.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living9.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom4.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom4.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom13.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom13.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen8.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen8.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom8.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom8.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom4.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom4.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-stairs.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-stairs.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living4.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living4.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom3.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom3.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living11.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living11.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom3.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom3.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-controls.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-controls.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen3.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen3.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom12.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom12.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen-perspective.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen-perspective.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom5.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom5.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview3.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview3.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/tac_5_cab_coupee_1302851965.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_tac_5_cab_coupee_1302851965.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom5.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom5.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living12.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living12.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom15.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom15.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom17.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom17.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom6.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom6.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview5.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview5.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom9.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom9.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom16.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom16.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-sofa3.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-sofa3.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-sofa2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-sofa2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom14.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom14.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom7.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom7.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom18.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom18.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/5e_cab_1298293739.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_5e_cab_1298293739.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-hall2.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-hall2.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-sofa.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-sofa.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living13.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living13.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview4.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview4.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen7.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen7.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/loft_copie_1291628702.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_loft_copie_1291628702.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom10.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom10.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/tac_copie_1291629017.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_tac_copie_1291629017.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom11.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom11.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom6.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom6.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen5.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen5.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom7.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom7.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-controls2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-controls2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/carre_copie_1291628648.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_carre_copie_1291628648.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living10.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living10.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-hall.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-hall.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/cuisine_copie_1291628778.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_cuisine_copie_1291628778.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/cabine_copie_1291629091.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_cabine_copie_1291629091.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_080_1312532311.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_080_1312532311.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_067_1312532377.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_067_1312532377.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_122_1312532273.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_122_1312532273.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_058_1312532422.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_058_1312532422.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_108_1312532458.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_108_1312532458.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_089_1312532348.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_089_1312532348.gif&#34; /&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
+    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
+
+      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental management</title>
+      <link>http://localhost:1313/gallery/sailing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/sailing/</guid>
+      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
+Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+
+&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+
+&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison of catamarans.</title>
+      <link>http://localhost:1313/greenboats/compare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/compare/</guid>
+      <description>
+
+&lt;p&gt;Comparison of catamarans.
+We like all boats mentioned on this page but want to demonstrate how boats can have a different mission and target market.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t agree with the comparison please send us your remarks to info@greenboats.com&lt;/p&gt;
+
+&lt;h1 id=&#34;the-100-perfect-boat-does-not-exist:8d989502a880d78d175e25ad72371529&#34;&gt;The 100% perfect boat does not exist.&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Performance
+
+&lt;ul&gt;
+&lt;li&gt;Performance of a heavy boat is +- the hull speed for a catamaran in this range this would be around 10 knots. Even if the winds pick up the boat will not go much higher than the hullspeed.&lt;/li&gt;
+&lt;li&gt;Heavy for this size means +20 Ton&lt;/li&gt;
+&lt;li&gt;Super light boats can achieve 25 knots with good wind.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Price
+
+&lt;ul&gt;
+&lt;li&gt;A very important criteria. A boat of this size will cost between 800.000 eur and 2.000.000 eur (with options included)&lt;/li&gt;
+&lt;li&gt;A super light boat costs a lot of money because of required construction techniques &amp;amp; special materials.&lt;/li&gt;
+&lt;li&gt;remark many brands sell their boats with minimal options, we try to compare with all options required to get a balanced, comfortable and fun boat.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Safety
+
+&lt;ul&gt;
+&lt;li&gt;All catamarans are safe today if used well.&lt;/li&gt;
+&lt;li&gt;The lighter and the lower the point of gravity the safer the boat will be in heavy sea &amp;amp; wind conditions.&lt;/li&gt;
+&lt;li&gt;While a flybridge is ideal from a comfort perspective it is a killer feature from a safety &amp;amp; performance perspective.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Living Space &amp;amp; Comfort
+
+&lt;ul&gt;
+&lt;li&gt;Typically the smaller the hulls are the more performance can be expected but this results in less living space. Choices will have to be made.&lt;/li&gt;
+&lt;li&gt;A big and spacious boat can never be high performance.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Automation, Communication &amp;amp; IT systems&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This is a very under served requirement for most boats. This is the area where we want to excel in GreenBoats&lt;/li&gt;
+&lt;li&gt;Features like
+
+&lt;ul&gt;
+&lt;li&gt;Auto Check Of All Components (does not exist on any boat available in the market today(&lt;/li&gt;
+&lt;li&gt;Always on Internet Connection while using &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; of bandwidth (keep you monthly satellite bill low)&lt;/li&gt;
+&lt;li&gt;All systems 100% integrated &amp;amp; controlled by 1 system (on most boats + 10 control systems need to be used &amp;amp; maintained)&lt;/li&gt;
+&lt;li&gt;Multimedia system in each room&lt;/li&gt;
+&lt;li&gt;Special safety features because of integration with services on internet (e.g. weather reports)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Green&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A sailing boat should be green? Unfortunately most are not.&lt;/li&gt;
+&lt;li&gt;This is &amp;ldquo;the&amp;rdquo; other specialty of Green Boats.&lt;/li&gt;
+&lt;li&gt;Green is more than just installing solar panels.&lt;/li&gt;
+&lt;li&gt;Check requirements like:
+
+&lt;ul&gt;
+&lt;li&gt;which batteries used (lead acid batteries are too heavy, capacity of batteries)&lt;/li&gt;
+&lt;li&gt;ouput of solar panels normally very low (like 50 watt per m2, no by no means enough to power a boat)&lt;/li&gt;
+&lt;li&gt;watermakers are a must but how reliable &amp;amp; power efficient are they&lt;/li&gt;
+&lt;li&gt;airco: the most power hungry application, the only choice today, have one or not (we are working on a solution)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/Impossible.JPG&#34; alt=&#34;image&#34; /&gt;
+
+&lt;img src=&#34;./images/Lagoon.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nice charter boats if you are looking for a very comfortable &amp;amp; spacy catamaran.&lt;/li&gt;
+&lt;li&gt;A great flybridge with lots of space.&lt;/li&gt;
+&lt;li&gt;Price/quality/value relationship is very good.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The boat is not optimized for performance, because of size &amp;amp; weight of boat.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lagoon is the market leader for charter boats.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;private-faster-travel-catamaran-go-around-the-world:8d989502a880d78d175e25ad72371529&#34;&gt;Private faster travel catamaran (go around the world)&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/Nautitech.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The quality &amp;amp; finishing is very good.&lt;/li&gt;
+&lt;li&gt;The boat has as main requirements: safety, quality &amp;amp; performance.&lt;/li&gt;
+&lt;li&gt;The price/quality/value relationship is very good.&lt;/li&gt;
+&lt;li&gt;Less space when compared to e.g. a Lagoon 560. No flybridge.&lt;/li&gt;
+&lt;li&gt;This is probably the most cost effective high performance catamaran optimized for sailing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;fast-super-light-sport-catamaran:8d989502a880d78d175e25ad72371529&#34;&gt;Fast super light sport catamaran&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/Gunboat.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Super high performance boat. All carbon &amp;amp; special materials.&lt;/li&gt;
+&lt;li&gt;If you are looking for the fastest boat this could be it.&lt;/li&gt;
+&lt;li&gt;Quite expensive though.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;greenboat-greenest-fast-ultra-comfortable-family-boat:8d989502a880d78d175e25ad72371529&#34;&gt;GreenBoat: greenest, fast, ultra comfortable family boat&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/TheGreenCat.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A new kind of boat with different accents, made for the people who want comfort, safety &amp;amp; performance at reasonable price.&lt;/li&gt;
+&lt;li&gt;The GreenCat is based on the Nautitech 54.&lt;/li&gt;
+&lt;li&gt;But Greenboats is more performant because of sails &amp;amp; lighter rotating mast used.&lt;/li&gt;
+&lt;li&gt;This is probably the greenest boat available in the market.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -180,21 +473,147 @@
     </item>
     
     <item>
-      <title>Environmental management</title>
-      <link>http://localhost:1313/gallery/sailing/</link>
+      <title>Specifications</title>
+      <link>http://localhost:1313/greenboats/specifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gallery/sailing/</guid>
-      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
+      <guid>http://localhost:1313/greenboats/specifications/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Main technical characteristics:&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Length overall (LOA)&lt;/td&gt;
+&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
-Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;Waterline length&lt;/td&gt;
+&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;Maximum beam&lt;/td&gt;
+&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;Draft&lt;/td&gt;
+&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mast height&lt;/td&gt;
+&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Light Displacement&lt;/td&gt;
+&lt;td&gt;34,160 Ibs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Bridge deck clearance&lt;/td&gt;
+&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Headroom&lt;/td&gt;
+&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sail area&lt;/td&gt;
+&lt;td&gt;1,539 sqft&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Engines&lt;/td&gt;
+&lt;td&gt;2 x 75 hp&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Water capacity&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Fuel capacity&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Rating&lt;/td&gt;
+&lt;td&gt;CAT A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cabins&lt;/td&gt;
+&lt;td&gt;8 passengers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Floorplan bedrooms&lt;/th&gt;
+&lt;th&gt;Floorplan living area&lt;/th&gt;
+&lt;th&gt;Mast of 68&amp;rsquo; and beam of 28&amp;rsquo;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./images/s_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&#34;./images/greenboats/inside-overview2.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_inside-overview2.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/inside-overview3.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_inside-overview3.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/outside-overview.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_outside-overview.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/sailing-front-zoomed.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_sailing-front-zoomed.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;./images/greenboats/stairs.JPG&#34;&gt;&lt;img src=&#34;./images/s_150x100_stairs.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/activities-trailer.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_activities-trailer.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/catamaran-graphic.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/floorplan-level2.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;./images/greenboats/floorplan-level1.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+    .span9 img {
+        width: 20%;
+        margin: 10px;&lt;br /&gt;
+    }
+    .span9  td img {
+        width: 100%;
+        margin: 10px;&lt;br /&gt;
+    }
+    table {
+        float: left;
+        margin-right: 20px;
+    }
+&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -344,151 +763,6 @@ Deployment is simple via the standard RJ45 daisy chain connections and features 
     </item>
     
     <item>
-      <title>Specifications</title>
-      <link>http://localhost:1313/greenboats/specifications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/greenboats/specifications/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Main technical characteristics:&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Length overall (LOA)&lt;/td&gt;
-&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Waterline length&lt;/td&gt;
-&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Maximum beam&lt;/td&gt;
-&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Draft&lt;/td&gt;
-&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Mast height&lt;/td&gt;
-&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Light Displacement&lt;/td&gt;
-&lt;td&gt;34,160 Ibs&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Bridge deck clearance&lt;/td&gt;
-&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Headroom&lt;/td&gt;
-&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Sail area&lt;/td&gt;
-&lt;td&gt;1,539 sqft&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Engines&lt;/td&gt;
-&lt;td&gt;2 x 75 hp&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Water capacity&lt;/td&gt;
-&lt;td&gt;211 USGal&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Fuel capacity&lt;/td&gt;
-&lt;td&gt;211 USGal&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Rating&lt;/td&gt;
-&lt;td&gt;CAT A&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Cabins&lt;/td&gt;
-&lt;td&gt;8 passengers&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Floorplan bedrooms&lt;/th&gt;
-&lt;th&gt;Floorplan living area&lt;/th&gt;
-&lt;th&gt;Mast of 68&amp;rsquo; and beam of 28&amp;rsquo;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./images/s_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;a href=&#34;./images/greenboats/inside-overview2.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_inside-overview2.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/inside-overview3.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_inside-overview3.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/outside-overview.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_outside-overview.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/sailing-front-zoomed.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_sailing-front-zoomed.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;./images/greenboats/stairs.JPG&#34;&gt;&lt;img src=&#34;./images/s_150x100_stairs.JPG&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/activities-trailer.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_activities-trailer.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/catamaran-graphic.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/floorplan-level2.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/floorplan-level1.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
-    .span9 img {
-        width: 20%;
-        margin: 10px;&lt;br /&gt;
-    }
-    .span9  td img {
-        width: 100%;
-        margin: 10px;&lt;br /&gt;
-    }
-    table {
-        float: left;
-        margin-right: 20px;
-    }
-&lt;/style&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>aboutus_box</title>
       <link>http://localhost:1313/home/aboutus_box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -525,132 +799,12 @@ Deployment is simple via the standard RJ45 daisy chain connections and features 
     </item>
     
     <item>
-      <title>Comparison of catamarans.</title>
-      <link>http://localhost:1313/greenboats/compare/</link>
+      <title>second_section</title>
+      <link>http://localhost:1313/home/second_section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/greenboats/compare/</guid>
-      <description>
-
-&lt;p&gt;Comparison of catamarans.
-We like all boats mentioned on this page but want to demonstrate how boats can have a different mission and target market.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t agree with the comparison please send us your remarks to info@greenboats.com&lt;/p&gt;
-
-&lt;h1 id=&#34;the-100-perfect-boat-does-not-exist:8d989502a880d78d175e25ad72371529&#34;&gt;The 100% perfect boat does not exist.&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Performance
-
-&lt;ul&gt;
-&lt;li&gt;Performance of a heavy boat is +- the hull speed for a catamaran in this range this would be around 10 knots. Even if the winds pick up the boat will not go much higher than the hullspeed.&lt;/li&gt;
-&lt;li&gt;Heavy for this size means +20 Ton&lt;/li&gt;
-&lt;li&gt;Super light boats can achieve 25 knots with good wind.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Price
-
-&lt;ul&gt;
-&lt;li&gt;A very important criteria. A boat of this size will cost between 800.000 eur and 2.000.000 eur (with options included)&lt;/li&gt;
-&lt;li&gt;A super light boat costs a lot of money because of required construction techniques &amp;amp; special materials.&lt;/li&gt;
-&lt;li&gt;remark many brands sell their boats with minimal options, we try to compare with all options required to get a balanced, comfortable and fun boat.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Safety
-
-&lt;ul&gt;
-&lt;li&gt;All catamarans are safe today if used well.&lt;/li&gt;
-&lt;li&gt;The lighter and the lower the point of gravity the safer the boat will be in heavy sea &amp;amp; wind conditions.&lt;/li&gt;
-&lt;li&gt;While a flybridge is ideal from a comfort perspective it is a killer feature from a safety &amp;amp; performance perspective.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Living Space &amp;amp; Comfort
-
-&lt;ul&gt;
-&lt;li&gt;Typically the smaller the hulls are the more performance can be expected but this results in less living space. Choices will have to be made.&lt;/li&gt;
-&lt;li&gt;A big and spacious boat can never be high performance.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Automation, Communication &amp;amp; IT systems&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;This is a very under served requirement for most boats. This is the area where we want to excel in GreenBoats&lt;/li&gt;
-&lt;li&gt;Features like
-
-&lt;ul&gt;
-&lt;li&gt;Auto Check Of All Components (does not exist on any boat available in the market today(&lt;/li&gt;
-&lt;li&gt;Always on Internet Connection while using &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; of bandwidth (keep you monthly satellite bill low)&lt;/li&gt;
-&lt;li&gt;All systems 100% integrated &amp;amp; controlled by 1 system (on most boats + 10 control systems need to be used &amp;amp; maintained)&lt;/li&gt;
-&lt;li&gt;Multimedia system in each room&lt;/li&gt;
-&lt;li&gt;Special safety features because of integration with services on internet (e.g. weather reports)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Green&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A sailing boat should be green? Unfortunately most are not.&lt;/li&gt;
-&lt;li&gt;This is &amp;ldquo;the&amp;rdquo; other specialty of Green Boats.&lt;/li&gt;
-&lt;li&gt;Green is more than just installing solar panels.&lt;/li&gt;
-&lt;li&gt;Check requirements like:
-
-&lt;ul&gt;
-&lt;li&gt;which batteries used (lead acid batteries are too heavy, capacity of batteries)&lt;/li&gt;
-&lt;li&gt;ouput of solar panels normally very low (like 50 watt per m2, no by no means enough to power a boat)&lt;/li&gt;
-&lt;li&gt;watermakers are a must but how reliable &amp;amp; power efficient are they&lt;/li&gt;
-&lt;li&gt;airco: the most power hungry application, the only choice today, have one or not (we are working on a solution)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/Impossible.JPG&#34; alt=&#34;image&#34; /&gt;
-
-&lt;img src=&#34;./images/Lagoon.JPG&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nice charter boats if you are looking for a very comfortable &amp;amp; spacy catamaran.&lt;/li&gt;
-&lt;li&gt;A great flybridge with lots of space.&lt;/li&gt;
-&lt;li&gt;Price/quality/value relationship is very good.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The boat is not optimized for performance, because of size &amp;amp; weight of boat.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lagoon is the market leader for charter boats.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;private-faster-travel-catamaran-go-around-the-world:8d989502a880d78d175e25ad72371529&#34;&gt;Private faster travel catamaran (go around the world)&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/Nautitech.JPG&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The quality &amp;amp; finishing is very good.&lt;/li&gt;
-&lt;li&gt;The boat has as main requirements: safety, quality &amp;amp; performance.&lt;/li&gt;
-&lt;li&gt;The price/quality/value relationship is very good.&lt;/li&gt;
-&lt;li&gt;Less space when compared to e.g. a Lagoon 560. No flybridge.&lt;/li&gt;
-&lt;li&gt;This is probably the most cost effective high performance catamaran optimized for sailing.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;fast-super-light-sport-catamaran:8d989502a880d78d175e25ad72371529&#34;&gt;Fast super light sport catamaran&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/Gunboat.JPG&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Super high performance boat. All carbon &amp;amp; special materials.&lt;/li&gt;
-&lt;li&gt;If you are looking for the fastest boat this could be it.&lt;/li&gt;
-&lt;li&gt;Quite expensive though.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;greenboat-greenest-fast-ultra-comfortable-family-boat:8d989502a880d78d175e25ad72371529&#34;&gt;GreenBoat: greenest, fast, ultra comfortable family boat&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/TheGreenCat.JPG&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A new kind of boat with different accents, made for the people who want comfort, safety &amp;amp; performance at reasonable price.&lt;/li&gt;
-&lt;li&gt;The GreenCat is based on the Nautitech 54.&lt;/li&gt;
-&lt;li&gt;But Greenboats is more performant because of sails &amp;amp; lighter rotating mast used.&lt;/li&gt;
-&lt;li&gt;This is probably the greenest boat available in the market.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://localhost:1313/home/second_section/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -709,47 +863,6 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     }&lt;/p&gt;
 
 &lt;p&gt;&lt;/style&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IT As Energy</title>
-      <link>http://localhost:1313/it-as-energy</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/it-as-energy</guid>
-      <description>
-
-&lt;h2 id=&#34;it-energy:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;IT = Energy&lt;/h2&gt;
-
-&lt;p&gt;Energy is driving our global economy and the welfare of our society. The importance of Energy is driving the creation and adoption of new Energy sources, such as solar and hydro power, renewable and Green Energy, so more and more people can take advantage of it.&lt;/p&gt;
-
-&lt;p&gt;But IT is also Energy.
-The reliance on IT as natural resource for companies and society is as important as electricity. Electricity was the primary energy source for the industrial revolution to happen, disrupting the agricultural society. But now we have entered the informational revolution in which IT is the primary resource for computer automation and ubiquitous digitization.&lt;/p&gt;
-
-&lt;h2 id=&#34;it-evolution:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;IT Evolution&lt;/h2&gt;
-
-&lt;p&gt;IT has evolved into the integration and stacking of thousands of independant IT components,  dedicated servers, storage systems and networking hardware. This led to very complex and unreliable infrastructure stack which is very costly to maintain.&lt;/p&gt;
-
-&lt;p&gt;Virtualization enabled the spread IT workloads over different hardware, while the IT workloads took up less capacity from the dedicated servers. This led to a reduction in power consumption and more flexibility to create new and maintain existing IT workloads.&lt;/p&gt;
-
-&lt;p&gt;Today we have entered “The Cloud” era in which IT workloads can be created faster as no dedicated hardware needs to be purchased and installed. The interfaces provide great flexibility to IT administrators to manage and maintain IT workloads, when you consolidate all your workloads in the same Cloud, e.g. Amazon, Microsoft Azure, Google, Rackspace Cloud, etc.&lt;/p&gt;
-
-&lt;p&gt;Cloud services deliver us tools and interfaces which make it easy to organize and maintain virtualized workloads. Painfully, all this extra flexibility results in a more abstract use of IT without any standardisation. Each cloud works completely different and behaves different when running business applications and a variety of IT workloads.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-comes-after-cloud-it-as-energy:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;What Comes After Cloud? IT as Energy!&lt;/h2&gt;
-
-&lt;p&gt;Green IT Globe introduces the IT as Energy concept to deliver only the benefits from cloud services, but not its limitations and complexity.&lt;/p&gt;
-
-&lt;p&gt;Green IT Globe delivers its concept through “IT As Energy Generators” based on the requirements of many customers asking for following benefits:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lower my Total Cost of Ownership&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Make my IT Secure and Private&lt;/li&gt;
-&lt;li&gt;Make my IT Extremely Simple&lt;/li&gt;
-&lt;li&gt;Make my IT Ultra Reliable&lt;/li&gt;
-&lt;li&gt;Make my IT Available Everywhere&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
