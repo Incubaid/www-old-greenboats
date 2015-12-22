@@ -32,12 +32,24 @@ GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with [Gree
 Could not find bucket pdfs
 
 ### Main technical characteristics
-|                        |                 |           |
-| -------------          |:-------------:  | -----:    |
-| Length overall (LOA)   |     54'48''       |     $1600 |
----
-| Waterline length       |   52'49''       |     $12   |
-| Maximum beam           |   28'05''       |     $1    |
+|                               |                                   
+| -------------                 |-------     
+| Length overall (LOA)          |54'48''     
+| Waterline length              |52'49''                                         
+| Maximum beam                  |28'05'' 
+| Draft                         |5'01''   
+| Mast height                   |68'89''   
+| Light Displacement            |34,160 Ibs   
+| Bridge deck clearance         |3'28''  
+| Headroom                      |6'56''   
+| Sail area                     |1,539 sqft                                       
+| Engines                       |2 x 75 hp
+| Water capacity                |211 USGal
+| Fuel capacity                 |211 USGal
+| Rating                        |CAT A
+| Cabins                        |8 passengers
+
+
 
 
 

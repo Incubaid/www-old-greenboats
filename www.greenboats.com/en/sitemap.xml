@@ -7,19 +7,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/gallery/outside/</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/gallery/inside/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/greenboats/compare/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/gallery/sailing/</loc>
+    <loc>http://localhost:1313/gallery/outside/</loc>
   </url>
   
   <url>
@@ -27,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/greenboats/specifications/</loc>
+    <loc>http://localhost:1313/gallery/sailing/</loc>
   </url>
   
   <url>
@@ -36,6 +28,10 @@
   
   <url>
     <loc>http://localhost:1313/greenboats/video/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/greenboats/specifications/</loc>
   </url>
   
   <url>
@@ -51,15 +47,19 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/home/footer_box/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/greenboats/compare/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/home/intro_slider_box/</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/contact-us</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/footer_box/</loc>
   </url>
   
   <url>
@@ -71,15 +71,15 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/shows</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/home/solution_section/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/home/second_section/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/shows</loc>
+    <loc>http://localhost:1313/white-papers</loc>
   </url>
   
   <url>
@@ -87,7 +87,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/white-papers</loc>
+    <loc>http://localhost:1313/home/second_section/</loc>
   </url>
   
 </urlset>
