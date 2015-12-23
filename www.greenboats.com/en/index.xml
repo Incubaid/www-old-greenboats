@@ -9,71 +9,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gener8</title>
-      <link>http://localhost:1313/gallery/outside/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gallery/outside/</guid>
-      <description>
-
-&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;./images/gener8-logo.png&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;it-building-blocks:dbcac643d993b442cd3505abbe98b66e&#34;&gt;IT Building Blocks&lt;/h3&gt;
-
-&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
-
-&lt;h3 id=&#34;gener8-pb:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-PB&lt;/h3&gt;
-
-&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
-&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
-&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
-&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
-&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;technical:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Technical&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1.5 PB&lt;/li&gt;
-&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
-&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
-&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
-&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
-&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;gener8-hc:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-HC&lt;/h3&gt;
-
-&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
-
-&lt;h4 id=&#34;technical-1:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Technical&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
-&lt;li&gt;288 logical CPU cores&lt;/li&gt;
-&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
-&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
-&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
-&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;gener8-hd:dbcac643d993b442cd3505abbe98b66e&#34;&gt;Gener8-HD&lt;/h3&gt;
-
-&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
-
-&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
-.gener8Logo {margin: -15px 0 0 0;}
-    .title { display: none;}
-    .separator-2 { display: none;}
-    .separator-2 + p { display: none;}
-&lt;/style&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Inside Gallery</title>
       <link>http://localhost:1313/gallery/inside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,25 +159,6 @@
       &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Environmental management</title>
-      <link>http://localhost:1313/gallery/sailing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gallery/sailing/</guid>
-      <description>&lt;p&gt;Racktivity developed the &lt;a href=&#34;./products/uptime-maximization-opex-reduction/e2sensor&#34;&gt;E²Sensor&lt;/a&gt; Family to give you visibility of the environmental situation of your data centers and remote infrastructure.&lt;/p&gt;
-
-&lt;p&gt;Whether you are looking to monitor temperature, humidity, water leakage, movement, smoke detection or other parameters we have the E²Sensor available to fit your needs. The E²Sensor is designed to work with any Racktivity product featuring an R-BUS connector which includes the &lt;a href=&#34;./products/rack-power-management&#34;&gt;EnergySwitch smart PDUs&lt;/a&gt;, &lt;a href=&#34;./products/infrastructure-power-management/ac-power-monitoring-ac2meter&#34;&gt;AC²Meter&lt;/a&gt; and &lt;a href=&#34;./products/infrastructure-power-management/dc-power-monitoring&#34;&gt;DC²Meter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The E²Sensor is a compact environmental sensor of 5cm (2 inches) that comes equipped with an OLED display.
-Deployment is simple via the standard RJ45 daisy chain connections and features multiple rack mount options. A simple push button allows instant control of all available metrics such as temperature, humidity, leak detection, motion detection, rack door close sensor, smoke indication…&lt;/p&gt;
-
-&lt;p&gt;The sensors are fully compatible with our &lt;a href=&#34;./products/power-management-software/dcpm&#34;&gt;DCPM&lt;/a&gt;, a Service Provider Infrastructure &amp;amp; Data Center Performance Management System, allowing you a complete monitoring and management solution of critical environmental metrics in your data centers and/or smaller distributed infrastructures.&lt;/p&gt;
-
-&lt;p&gt;Want to find out where exactly the Racktivity products go in the datacenter? &lt;a href=&#34;./post/data-center-floor-plan-solution-overview&#34;&gt;Check out our animated floor plan.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -473,151 +389,6 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
-      <title>Specifications</title>
-      <link>http://localhost:1313/greenboats/specifications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/greenboats/specifications/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Main technical characteristics:&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Length overall (LOA)&lt;/td&gt;
-&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Waterline length&lt;/td&gt;
-&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Maximum beam&lt;/td&gt;
-&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Draft&lt;/td&gt;
-&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Mast height&lt;/td&gt;
-&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Light Displacement&lt;/td&gt;
-&lt;td&gt;34,160 Ibs&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Bridge deck clearance&lt;/td&gt;
-&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Headroom&lt;/td&gt;
-&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Sail area&lt;/td&gt;
-&lt;td&gt;1,539 sqft&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Engines&lt;/td&gt;
-&lt;td&gt;2 x 75 hp&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Water capacity&lt;/td&gt;
-&lt;td&gt;211 USGal&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Fuel capacity&lt;/td&gt;
-&lt;td&gt;211 USGal&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Rating&lt;/td&gt;
-&lt;td&gt;CAT A&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Cabins&lt;/td&gt;
-&lt;td&gt;8 passengers&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Floorplan bedrooms&lt;/th&gt;
-&lt;th&gt;Floorplan living area&lt;/th&gt;
-&lt;th&gt;Mast of 68&amp;rsquo; and beam of 28&amp;rsquo;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./images/s_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;a href=&#34;./images/greenboats/inside-overview2.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_inside-overview2.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/inside-overview3.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_inside-overview3.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/outside-overview.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_outside-overview.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/sailing-front-zoomed.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_sailing-front-zoomed.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;./images/greenboats/stairs.JPG&#34;&gt;&lt;img src=&#34;./images/s_150x100_stairs.JPG&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/activities-trailer.jpg&#34;&gt;&lt;img src=&#34;./images/s_150x100_activities-trailer.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/catamaran-graphic.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/floorplan-level2.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;
-&lt;a href=&#34;./images/greenboats/floorplan-level1.png&#34;&gt;&lt;img src=&#34;./images/s_150x100_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
-    .span9 img {
-        width: 20%;
-        margin: 10px;&lt;br /&gt;
-    }
-    .span9  td img {
-        width: 100%;
-        margin: 10px;&lt;br /&gt;
-    }
-    table {
-        float: left;
-        margin-right: 20px;
-    }
-&lt;/style&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>GreenBoat</title>
       <link>http://localhost:1313/greenboats/greenboats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -754,38 +525,278 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
+      <title>Outside Gallery</title>
+      <link>http://localhost:1313/gallery/outside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/outside/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-deck.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-deck.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-logo.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-logo.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining4.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining4.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining7.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining7.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/arriere_542_1291628433.jpg title=Outside&gt;&lt;img src=&#34;./images/s_300x200_arriere_542_1291628433.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining9.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining9.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining10.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining10.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-fridge.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-fridge.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining11.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining11.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining7.JPG title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining7.JPG&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining5.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining5.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-roof.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-roof.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-sofa.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-sofa.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-gear.jpg title=Outside&gt;&lt;img src=&#34;./images/s_300x200_outside-gear.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-steering.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-steering.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-gear2.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-gear2.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining8.JPG title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining8.JPG&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining3.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining3.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dinghy.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dinghy.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-dining2.jpg title=Outside&gt;
+            &lt;img src=&#34;./images/s_300x200_outside-dining2.jpg&#34; /&gt;&lt;/a&gt;
+             &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
+    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
+
+      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sailing Gallery</title>
+      <link>http://localhost:1313/gallery/sailing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/sailing/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-side-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-side-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed2.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed2.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side-zoomed2.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side-zoomed2.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_sailing-front.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/r.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_r.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-fort.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-fort.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/n_542_1291628484.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_n_542_1291628484.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side2.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side2.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nauti-54-photo-couv-ok_1302851904.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_nauti-54-photo-couv-ok_1302851904.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed3.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed3.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-rear-zoomed.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_sailing-aerial-rear-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-rear.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-rear.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2269_1312184577.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__1ob2269_1312184577.gif&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_2ob2130_1312183969.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__2ob2130_1312183969.gif&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2199_1312183918.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__1ob2199_1312183918.gif&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2270_1312184544.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__1ob2270_1312184544.gif&#34; /&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+  &lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
+    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
+
+      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specifications</title>
+      <link>http://localhost:1313/greenboats/specifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/specifications/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Main technical characteristics:&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Length overall (LOA)&lt;/td&gt;
+&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Waterline length&lt;/td&gt;
+&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Maximum beam&lt;/td&gt;
+&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Draft&lt;/td&gt;
+&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mast height&lt;/td&gt;
+&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Light Displacement&lt;/td&gt;
+&lt;td&gt;34,160 Ibs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Bridge deck clearance&lt;/td&gt;
+&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Headroom&lt;/td&gt;
+&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sail area&lt;/td&gt;
+&lt;td&gt;1,539 sqft&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Engines&lt;/td&gt;
+&lt;td&gt;2 x 75 hp&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Water capacity&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Fuel capacity&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Rating&lt;/td&gt;
+&lt;td&gt;CAT A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cabins&lt;/td&gt;
+&lt;td&gt;8 passengers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Floorplan bedrooms&lt;/th&gt;
+&lt;th&gt;Floorplan living area&lt;/th&gt;
+&lt;th&gt;Mast of 68&amp;rsquo; and beam of 28&amp;rsquo;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level1.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./images/s_floorplan-level2.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./images/s_catamaran-graphic.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview2.jpg title=&gt;
+                &lt;img src=&#34;./images/s_150x100_inside-overview2.jpg&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview3.jpg title=&gt;
+                &lt;img src=&#34;./images/s_150x100_inside-overview3.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/outside-overview.jpg title=&gt;&lt;img src=&#34;./images/s_150x100_outside-overview.jpg&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front-zoomed.jpg title=&gt;
+                &lt;img src=&#34;./images/s_150x100_sailing-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/stairs.JPG title=&gt;
+                &lt;img src=&#34;./images/s_150x100_stairs.JPG&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/activities-trailer.jpg title=&gt;
+                &lt;img src=&#34;./images/s_150x100_activities-trailer.jpg&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/catamaran-graphic.png title=&gt;
+                &lt;img src=&#34;./images/s_150x100_catamaran-graphic.png&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/floorplan-level2.png title=&gt;
+                &lt;img src=&#34;./images/s_150x100_floorplan-level2.png&#34; /&gt;&lt;/a&gt;
+            &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/floorplan-level1.png title=&gt;
+                &lt;img src=&#34;./images/s_150x100_floorplan-level1.png&#34; /&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
+    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
+
+      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;table {
+    float: left;
+    margin-right: 20px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gener8</title>
       <link>http://localhost:1313/greenboats/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/greenboats/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aboutus_box</title>
-      <link>http://localhost:1313/home/aboutus_box/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/aboutus_box/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>header</title>
-      <link>http://localhost:1313/home/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/header/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>product</title>
-      <link>http://localhost:1313/home/product/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/product/</guid>
       <description></description>
     </item>
     
@@ -799,11 +810,11 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
-      <title>second_section</title>
-      <link>http://localhost:1313/home/second_section/</link>
+      <title>header</title>
+      <link>http://localhost:1313/home/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/second_section/</guid>
+      <guid>http://localhost:1313/home/header/</guid>
       <description></description>
     </item>
     
@@ -813,6 +824,15 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/home/intro_slider_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>http://localhost:1313/home/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/product/</guid>
       <description></description>
     </item>
     
@@ -864,6 +884,24 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 
 &lt;p&gt;&lt;/style&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>second_section</title>
+      <link>http://localhost:1313/home/second_section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/second_section/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aboutus_box</title>
+      <link>http://localhost:1313/home/aboutus_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/aboutus_box/</guid>
+      <description></description>
     </item>
     
   </channel>

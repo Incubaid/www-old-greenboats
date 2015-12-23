@@ -27,28 +27,38 @@ title = "Specifications"
 |![image](/images/s_floorplan-level1.png) | ![image](/images/s_floorplan-level2.png) |  ![image](/images/s_catamaran-graphic.png)    
             
 
+<div class="container-fluid">
+    <div id="gallery" data-toggle="modal-gallery" data-target="#modal-gallery">
+		    <a data-gallery = "gallery" data-href=/images/greenboats/inside-overview2.jpg title=>
+		    	<img src="/images/s_150x100_inside-overview2.jpg" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/inside-overview3.jpg title=>
+		    	<img src="/images/s_150x100_inside-overview3.jpg" /></a><a data-gallery = "gallery" data-href=/images/greenboats/outside-overview.jpg title=><img src="/images/s_150x100_outside-overview.jpg" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/sailing-front-zoomed.jpg title=>
+		    	<img src="/images/s_150x100_sailing-front-zoomed.jpg" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/stairs.JPG title=>
+		    	<img src="/images/s_150x100_stairs.JPG" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/activities-trailer.jpg title=>
+		        <img src="/images/s_150x100_activities-trailer.jpg" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/catamaran-graphic.png title=>
+		    	<img src="/images/s_150x100_catamaran-graphic.png" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/floorplan-level2.png title=>
+		    	<img src="/images/s_150x100_floorplan-level2.png" /></a>
+		    <a data-gallery = "gallery" data-href=/images/greenboats/floorplan-level1.png title=>
+		    	<img src="/images/s_150x100_floorplan-level1.png" /></a>
+    </div>
+</div>
+<div id="modal-gallery" class="modal modal-gallery hide fade modal-loading modal-fullscreen" tabindex="-1"  aria-hidden="true">
+    <div class="modal-header"> <a class="close" data-dismiss="modal">&times;</a>
 
-[![image](/images/s_150x100_inside-overview2.jpg)](/images/greenboats/inside-overview2.jpg)
-[![image](/images/s_150x100_inside-overview3.jpg)](/images/greenboats/inside-overview3.jpg)
-[![image](/images/s_150x100_outside-overview.jpg)](/images/greenboats/outside-overview.jpg)
-[![image](/images/s_150x100_sailing-front-zoomed.jpg)](/images/greenboats/sailing-front-zoomed.jpg)
-
-[![image](/images/s_150x100_stairs.JPG)](/images/greenboats/stairs.JPG)
-[![image](/images/s_150x100_activities-trailer.jpg)](/images/greenboats/activities-trailer.jpg)
-[![image](/images/s_150x100_catamaran-graphic.png)](/images/greenboats/catamaran-graphic.png)
-[![image](/images/s_150x100_floorplan-level2.png)](/images/greenboats/floorplan-level2.png)
-[![image](/images/s_150x100_floorplan-level1.png)](/images/greenboats/floorplan-level1.png)
-
+      <h3 class="modal-title"></h3>
+    </div>
+    <div class="modal-body">
+      <div class="modal-image"></div>
+    </div>
+  </div>
 
 <style type="text/css">
-	.span9 img {
-		width: 20%;
-		margin: 10px;	
-	}
-	.span9  td img {
-		width: 100%;
-		margin: 10px;	
-	}
+
 	table {
 		float: left;
 		margin-right: 20px;
