@@ -11,15 +11,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/greenboats/compare/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/greenboats/green-tech-options/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/greenboats/greenboats/</loc>
+    <loc>http://localhost:1313/gallery/sailing/</loc>
   </url>
   
   <url>
@@ -27,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/gallery/sailing/</loc>
+    <loc>http://localhost:1313/greenboats/green-tech-options/</loc>
   </url>
   
   <url>
@@ -35,31 +27,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/greenboats/greenboats/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/greenboats/video/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/footer_box/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/header/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/intro_slider_box/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/product/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/contact-us</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/second_section/</loc>
   </url>
   
   <url>
@@ -67,11 +39,31 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/it-as-energy</loc>
+    <loc>http://localhost:1313/home/header/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/thank-you</loc>
+    <loc>http://localhost:1313/greenboats/compare/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/home/product/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/home/footer_box/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact-us</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/home/intro_slider_box/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/it-as-energy</loc>
   </url>
   
   <url>
@@ -83,11 +75,19 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/home/solution_section/</loc>
+    <loc>http://localhost:1313/thank-you</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/home/second_section/</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/white-papers</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/home/solution_section/</loc>
   </url>
   
 </urlset>
