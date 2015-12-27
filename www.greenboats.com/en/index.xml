@@ -9,62 +9,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Sailing Gallery</title>
-      <link>http://localhost:1313/gallery/sailing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gallery/sailing/</guid>
-      <description>&lt;div class=&#34;container-fluid&#34;&gt;
-    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-side.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-side-zoomed.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-aerial-side-zoomed.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed2.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed2.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side-zoomed2.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-side-zoomed2.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_sailing-front.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/r.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_r.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-fort.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-fort.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/n_542_1291628484.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_n_542_1291628484.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side2.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-side2.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nauti-54-photo-couv-ok_1302851904.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_nauti-54-photo-couv-ok_1302851904.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed3.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed3.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-rear-zoomed.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_sailing-aerial-rear-zoomed.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front-zoomed.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-rear.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-rear.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side-zoomed.jpg title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200_sailing-side-zoomed.jpg&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2269_1312184577.gif title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200__1ob2269_1312184577.gif&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_2ob2130_1312183969.gif title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200__2ob2130_1312183969.gif&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2199_1312183918.gif title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200__1ob2199_1312183918.gif&#34; /&gt;&lt;/a&gt;
-        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2270_1312184544.gif title=Sailing&gt;
-            &lt;img src=&#34;./images/s_300x200__1ob2270_1312184544.gif&#34; /&gt;&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-  &lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
-    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
-
-      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;modal-body&#34;&gt;
-      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Inside Gallery</title>
       <link>http://localhost:1313/gallery/inside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -280,6 +224,159 @@
     </item>
     
     <item>
+      <title>Sailing Gallery</title>
+      <link>http://localhost:1313/gallery/sailing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/sailing/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-side-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-side-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed2.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed2.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side-zoomed2.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side-zoomed2.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_sailing-front.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/r.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_r.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-fort.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-fort.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/n_542_1291628484.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_n_542_1291628484.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side2.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side2.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nauti-54-photo-couv-ok_1302851904.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_nauti-54-photo-couv-ok_1302851904.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-front-zoomed3.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-aerial-front-zoomed3.jpg&#34; /&gt;&lt;/a&gt;&lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-aerial-rear-zoomed.jpg title=Sailing&gt;&lt;img src=&#34;./images/s_300x200_sailing-aerial-rear-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-front-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-front-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-rear.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-rear.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/sailing-side-zoomed.jpg title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200_sailing-side-zoomed.jpg&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2269_1312184577.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__1ob2269_1312184577.gif&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_2ob2130_1312183969.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__2ob2130_1312183969.gif&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2199_1312183918.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__1ob2199_1312183918.gif&#34; /&gt;&lt;/a&gt;
+        &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/_1ob2270_1312184544.gif title=Sailing&gt;
+            &lt;img src=&#34;./images/s_300x200__1ob2270_1312184544.gif&#34; /&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+  &lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
+    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
+
+      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Option Packages for GreenCat 54 </title>
+      <link>http://localhost:1313/greenboats/green-tech-options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/green-tech-options/</guid>
+      <description>
+
+&lt;h2 id=&#34;green-tech-power-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Power Option&lt;/h2&gt;
+
+&lt;p&gt;Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.&lt;/p&gt;
+
+&lt;p&gt;We install highly-efficient carbon-neutral power generation that uses what you have around you: wind, water and sun.&lt;/p&gt;
+
+&lt;p&gt;This option package includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ultra-silent, powerful, green electrical generators&lt;/li&gt;
+&lt;li&gt;Silent water-maker providing a constant supply of clean water&lt;/li&gt;
+&lt;li&gt;High-capacity long-lasting battery pack&lt;/li&gt;
+&lt;li&gt;Efficient solar panels&lt;/li&gt;
+&lt;li&gt;Cruising hydro generators&lt;/li&gt;
+&lt;li&gt;Super efficient air conditioning, which can run 4-5 hours on batteries alone&lt;/li&gt;
+&lt;li&gt;Inverter with gen-start feature to compensate for higher current needed
+&lt;img src=&#34;./images/greentechpoweroption.png&#34; alt=&#34;image&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;green-tech-communication-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Communication Option&lt;/h2&gt;
+
+&lt;p&gt;Upgrade your Nautitech 54 with our revolutionary always-on internet connection.&lt;/p&gt;
+
+&lt;p&gt;Staying connected on a boat can be a nightmare: connections are slow, unstable and expensive.&lt;/p&gt;
+
+&lt;p&gt;We have developed an internet connectivity solution for boats that uses 10 up to 100x less bandwidth than a standard satellite link, saving money and improving performance. Thanks to our intelligent and seamless connectivity selector, we always choose the cheapest communication method available.&lt;/p&gt;
+
+&lt;p&gt;This option gives you full remote control of your catamaran plus integrated weather and navigation services and, of course, an on-board wireless network.&lt;/p&gt;
+
+&lt;p&gt;This option packages includes the following components:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Always-on efficient internet connectivity using GPRS, 3G, wireless or satellite&lt;/li&gt;
+&lt;li&gt;Two tablets for web browsing, control and navigation&lt;/li&gt;
+&lt;li&gt;Internet router with unique bandwidth saving technology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/greentechcontroloption.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;green-tech-yacht-automation-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Yacht Automation Option&lt;/h2&gt;
+
+&lt;p&gt;Upgrade your Nautitech 54 with our unique remote control system including automatic health checks that make your boat safer and more reliable.&lt;/p&gt;
+
+&lt;p&gt;Did you ever drive to the marina only to find that the boat wasn’t ready to sail? Now the Green Tech Yacht Automation function detects problems and issues before you even leave the house!&lt;/p&gt;
+
+&lt;p&gt;Our automation controls every component on the boat. The system pinpoints specific components to make it easier and faster to carry out repairs. Thanks to the remote access, you have enough time to order the right replacement parts or order boat services. The system can be controlled remotely or on board using notebooks or tablets.&lt;/p&gt;
+
+&lt;p&gt;This option packages includes the following components:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Boat automation central&lt;/li&gt;
+&lt;li&gt;Bridge to navigation systems&lt;/li&gt;
+&lt;li&gt;Boat sensor package: water, temperature, humidity, power, engine, air conditioning&lt;/li&gt;
+&lt;li&gt;Self health check system&lt;/li&gt;
+&lt;li&gt;Remote control system&lt;/li&gt;
+&lt;li&gt;Camera systems for engine rooms and bilges&lt;/li&gt;
+&lt;li&gt;Underwater camera&lt;/li&gt;
+&lt;li&gt;Lighting system with dimmers and LED&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/greentechautomationoption.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;green-tech-navigation-multimedia-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Navigation &amp;amp; Multimedia Option&lt;/h2&gt;
+
+&lt;p&gt;Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.&lt;/p&gt;
+
+&lt;p&gt;We didn’t accept any compromises when we designed this system. We chose the best equipment and the most seamless integration so that our audio/video system brings you the best possible sound quality, an integrated multimedia library and LED touch displays in every room. In combination with the communication package the displays will always include always the latest weather information. We added powerful speakers and a laser show module for parties and music enthusiasts.&lt;/p&gt;
+
+&lt;p&gt;This option package includes the following components:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;High-end navigation system&lt;/li&gt;
+&lt;li&gt;Feature-complete including GPS, wind station, Navtech, VHF etc.&lt;/li&gt;
+&lt;li&gt;Access via multiple screens&lt;/li&gt;
+&lt;li&gt;High-definition radar&lt;/li&gt;
+&lt;li&gt;High-end audio/video system&lt;/li&gt;
+&lt;li&gt;Large LED full HD screen&lt;/li&gt;
+&lt;li&gt;Video and audio in each room&lt;/li&gt;
+&lt;li&gt;High-end audio and full HD video experience&lt;/li&gt;
+&lt;li&gt;Reliable high-capacity video/audio library&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/greentechnavigationoption.png&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comparison of catamarans.</title>
       <link>http://localhost:1313/greenboats/compare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -405,103 +502,6 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 &lt;li&gt;But Greenboats is more performant because of sails &amp;amp; lighter rotating mast used.&lt;/li&gt;
 &lt;li&gt;This is probably the greenest boat available in the market.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Option Packages for GreenCat 54 </title>
-      <link>http://localhost:1313/greenboats/green-tech-options/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/greenboats/green-tech-options/</guid>
-      <description>
-
-&lt;h2 id=&#34;green-tech-power-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Power Option&lt;/h2&gt;
-
-&lt;p&gt;Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.&lt;/p&gt;
-
-&lt;p&gt;We install highly-efficient carbon-neutral power generation that uses what you have around you: wind, water and sun.&lt;/p&gt;
-
-&lt;p&gt;This option package includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ultra-silent, powerful, green electrical generators&lt;/li&gt;
-&lt;li&gt;Silent water-maker providing a constant supply of clean water&lt;/li&gt;
-&lt;li&gt;High-capacity long-lasting battery pack&lt;/li&gt;
-&lt;li&gt;Efficient solar panels&lt;/li&gt;
-&lt;li&gt;Cruising hydro generators&lt;/li&gt;
-&lt;li&gt;Super efficient air conditioning, which can run 4-5 hours on batteries alone&lt;/li&gt;
-&lt;li&gt;Inverter with gen-start feature to compensate for higher current needed
-&lt;img src=&#34;./images/greentechpoweroption.png&#34; alt=&#34;image&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;green-tech-communication-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Communication Option&lt;/h2&gt;
-
-&lt;p&gt;Upgrade your Nautitech 54 with our revolutionary always-on internet connection.&lt;/p&gt;
-
-&lt;p&gt;Staying connected on a boat can be a nightmare: connections are slow, unstable and expensive.&lt;/p&gt;
-
-&lt;p&gt;We have developed an internet connectivity solution for boats that uses 10 up to 100x less bandwidth than a standard satellite link, saving money and improving performance. Thanks to our intelligent and seamless connectivity selector, we always choose the cheapest communication method available.&lt;/p&gt;
-
-&lt;p&gt;This option gives you full remote control of your catamaran plus integrated weather and navigation services and, of course, an on-board wireless network.&lt;/p&gt;
-
-&lt;p&gt;This option packages includes the following components:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Always-on efficient internet connectivity using GPRS, 3G, wireless or satellite&lt;/li&gt;
-&lt;li&gt;Two tablets for web browsing, control and navigation&lt;/li&gt;
-&lt;li&gt;Internet router with unique bandwidth saving technology&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/greentechcontroloption.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;green-tech-yacht-automation-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Yacht Automation Option&lt;/h2&gt;
-
-&lt;p&gt;Upgrade your Nautitech 54 with our unique remote control system including automatic health checks that make your boat safer and more reliable.&lt;/p&gt;
-
-&lt;p&gt;Did you ever drive to the marina only to find that the boat wasn’t ready to sail? Now the Green Tech Yacht Automation function detects problems and issues before you even leave the house!&lt;/p&gt;
-
-&lt;p&gt;Our automation controls every component on the boat. The system pinpoints specific components to make it easier and faster to carry out repairs. Thanks to the remote access, you have enough time to order the right replacement parts or order boat services. The system can be controlled remotely or on board using notebooks or tablets.&lt;/p&gt;
-
-&lt;p&gt;This option packages includes the following components:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Boat automation central&lt;/li&gt;
-&lt;li&gt;Bridge to navigation systems&lt;/li&gt;
-&lt;li&gt;Boat sensor package: water, temperature, humidity, power, engine, air conditioning&lt;/li&gt;
-&lt;li&gt;Self health check system&lt;/li&gt;
-&lt;li&gt;Remote control system&lt;/li&gt;
-&lt;li&gt;Camera systems for engine rooms and bilges&lt;/li&gt;
-&lt;li&gt;Underwater camera&lt;/li&gt;
-&lt;li&gt;Lighting system with dimmers and LED&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/greentechautomationoption.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;green-tech-navigation-multimedia-option:451dccf44150666581484a0d89d4b37b&#34;&gt;Green Tech Navigation &amp;amp; Multimedia Option&lt;/h2&gt;
-
-&lt;p&gt;Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.&lt;/p&gt;
-
-&lt;p&gt;We didn’t accept any compromises when we designed this system. We chose the best equipment and the most seamless integration so that our audio/video system brings you the best possible sound quality, an integrated multimedia library and LED touch displays in every room. In combination with the communication package the displays will always include always the latest weather information. We added powerful speakers and a laser show module for parties and music enthusiasts.&lt;/p&gt;
-
-&lt;p&gt;This option package includes the following components:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;High-end navigation system&lt;/li&gt;
-&lt;li&gt;Feature-complete including GPS, wind station, Navtech, VHF etc.&lt;/li&gt;
-&lt;li&gt;Access via multiple screens&lt;/li&gt;
-&lt;li&gt;High-definition radar&lt;/li&gt;
-&lt;li&gt;High-end audio/video system&lt;/li&gt;
-&lt;li&gt;Large LED full HD screen&lt;/li&gt;
-&lt;li&gt;Video and audio in each room&lt;/li&gt;
-&lt;li&gt;High-end audio and full HD video experience&lt;/li&gt;
-&lt;li&gt;Reliable high-capacity video/audio library&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/greentechnavigationoption.png&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
 </description>
     </item>
     
@@ -750,7 +750,7 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 &lt;/table&gt;
 
 &lt;div class=&#34;container-fluid&#34;&gt;
-    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+    &lt;div class=&#34;ehab&#34; id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
             &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview2.jpg title=&gt;
                 &lt;img src=&#34;./images/s_150x100_inside-overview2.jpg&#34; /&gt;&lt;/a&gt;
             &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview3.jpg title=&gt;
@@ -781,27 +781,7 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 
 &lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;table {
-    float: left;
-    margin-right: 20px;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;&lt;/style&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>http://localhost:1313/greenboats/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/greenboats/video/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-    &lt;iframe width=&#34;780&#34; height=&#34;439&#34; src=&#34;http://www.youtube.com/embed/lBgyj4y6oR8?rel=0&amp;autoplay=1&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;style&gt;iframe{ width:780px !important; height:439px !important;}&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -815,20 +795,11 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
-      <title>header</title>
-      <link>http://localhost:1313/home/header/</link>
+      <title>intro_slider_box</title>
+      <link>http://localhost:1313/home/intro_slider_box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/header/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>second_section</title>
-      <link>http://localhost:1313/home/second_section/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/second_section/</guid>
+      <guid>http://localhost:1313/home/intro_slider_box/</guid>
       <description></description>
     </item>
     
@@ -847,6 +818,15 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/home/footer_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>http://localhost:1313/home/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/header/</guid>
       <description></description>
     </item>
     
@@ -939,6 +919,15 @@ The reliance on IT as natural resource for companies and society is as important
 &lt;li&gt;Make my IT Available Everywhere&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>second_section</title>
+      <link>http://localhost:1313/home/second_section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/second_section/</guid>
+      <description></description>
     </item>
     
   </channel>

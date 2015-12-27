@@ -20,6 +20,8 @@ GreenBoats has been looking for the right parther which can build the GreenBoat.
 
 [Read More](/greenboats/compare) About How We Compare Catamarans.
 
+
+
 <style type="text/css">
 h2{
 	font-weight: normal;

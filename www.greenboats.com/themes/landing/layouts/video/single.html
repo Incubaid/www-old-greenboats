@@ -7,6 +7,12 @@
     padding-top: 80px;
     padding-bottom: 0px;
 }
+
+iframe{ width:780px !important; height:439px !important;}
+
+.video-player{
+	text-align: center;
+}
 </style>
 
 
@@ -24,13 +30,15 @@
 </div>
 <div class="span12">
 <h2 class="title">{{.Title}}</h2>
-{{.Content}}
+<div class="video-player">
+<iframe width="780" height="439" src="{{ .Params.video_link }}" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 <!-- START THE FEATURETTES -->
 <hr class="featurette-divider">
 
-
+{{ partial "second_section.html" . }}
 
 {{ partial "footer.html" . }}
 

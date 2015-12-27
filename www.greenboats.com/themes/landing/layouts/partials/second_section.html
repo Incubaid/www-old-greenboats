@@ -1,5 +1,6 @@
-{{ range $element :=  .Data.Pages }}
-   {{ if eq .Section "home" }}
+
+{{ range $element :=  $.Site.Pages }}
+
        {{ if eq .Title "second_section" }}
 					<div class="container marketing"> 
   <!-- Three columns of text below the carousel -->
@@ -25,5 +26,4 @@
   <!-- START THE FEATURETTES -->
   <hr class="featurette-divider">
 					{{ end }}
-			{{ end }}
 {{ end }}
