@@ -5,20 +5,20 @@
   <!-- Three columns of text below the carousel -->
   <div class="row">
     <div class="span4 ic">
-      <h2 class="title">Try our GreenBoat</h2>
-      <p>Try our GreenBoat yourself, it is available for a day charter in the Caribbean.</p>
+      <h2 class="title">{{.Params.left_title}}</h2>
+      <p>{{.Params.left_text}}</p>
     </div>
     <!-- /.span4 -->
     <div class="span4 homemid ">
-      <h2 class="title">GreenBoat</h2>
-      <p>We present you a revolutionary new catamaran, since we made it to be best in all categories: Design, Green, Performant, High Tech, Spacious, Reliable and Cost Efficient!</p>
+      <h2 class="title">{{.Params.middel_title}}</h2>
+      <p>{{.Params.middel_text}}</p>
     </div>
     <!-- /.span4 -->
     <div class="span4">
-      <h2 class="title">Visit us at major boat shows</h2>
-      <p>Come and see us in Cannes, Rochefort and Miami!</p>
+      <h2 class="title">{{.Params.right_title}}</h2>
+      <p>{{.Params.right_text}}</p>
       <hr>
-      <a href="http://www.greenboats.com/greenboats/Destinations" class="map"></a> </div>
+      <a href="{{.Params.right_link}}" class="map"></a> </div>
     <!-- /.span4 --> 
   </div>
   <!-- /.row --> 

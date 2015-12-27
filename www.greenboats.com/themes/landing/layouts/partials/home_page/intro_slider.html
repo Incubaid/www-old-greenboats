@@ -8,27 +8,27 @@
     ================================================== -->
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
-    <div class="item active"> <img src="images/slide-01.jpg" alt="">
+    <div class="item active"> <img src="{{.Params.slide1_pic}}" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Welcome to GreenBoats</h1>
-          <p class="lead"> We present you a revolutionary new catamaran, since we made it to be best in all categories: Design, Green, Performant, High Tech, Spacious, Reliable and Cost Efficient! </p>
+          <h1>{{.Params.slide1_title_main}}</h1>
+          <p class="lead">{{.Params.slide1_text}}</p>
         </div>
       </div>
     </div>
-    <div class="item"> <img src="images/slide-03.jpg" alt="">
+    <div class="item"> <img src="{{.Params.slide2_pic}}" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Greener</h1>
-          <p class="lead"> Combining high tech comfort with energy saving technologies, we made our boat greener and more enjoyable than ever, without making concessions to performance and reliability. </p>
+          <h1>{{.Params.slide2_title_main}}</h1>
+          <p class="lead"> {{.Params.slide2_text}} </p>
         </div>
       </div>
     </div>
-    <div class="item"> <img src="images/slide-02.jpg" alt="">
+    <div class="item"> <img src="{{.Params.slide3_pic}}" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Challenge us</h1>
-          <p class="lead"> We want to demonstrate how boats can have a different mission and target market. Compare it and challenge us! </p>
+          <h1>{{.Params.slide3_title_main}}</h1>
+          <p class="lead">{{.Params.slide3_text}} </p>
         </div>
       </div>
     </div>
@@ -36,7 +36,7 @@
   <a class="left carousel-control" href="http://www.greenboats.com/greenboats/Home#myCarousel" data-slide="prev">‹</a> <a class="right carousel-control" href="http://www.greenboats.com/greenboats/Home#myCarousel" data-slide="next">›</a> 
 </div>
 <!-- /.carousel -->
-<div class="container vbtn"> <a class="video" href="video.html"> </a> </div>
+<div class="container vbtn"> <a class="video" href="/GreenBoats/video"> </a> </div>
 
       {{end}}
       {{end}}
