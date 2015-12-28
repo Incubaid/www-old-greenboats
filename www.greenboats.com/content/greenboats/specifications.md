@@ -28,7 +28,7 @@ title = "Specifications"
             
 
 <div class="container-fluid">
-    <div class="ehab" id="gallery" data-toggle="modal-gallery" data-target="#modal-gallery">
+    <div id="gallery" data-toggle="modal-gallery" data-target="#modal-gallery">
 		    <a data-gallery = "gallery" data-href=/images/greenboats/inside-overview2.jpg title=>
 		    	<img src="/images/s_150x100_inside-overview2.jpg" /></a>
 		    <a data-gallery = "gallery" data-href=/images/greenboats/inside-overview3.jpg title=>
@@ -58,10 +58,10 @@ title = "Specifications"
   </div>
 
 <style type="text/css">
-
-
-	
-
-
-
+table{
+	float: left;
+}
+  .container-fluid {
+    display: inline-block;
+}
 </style>
