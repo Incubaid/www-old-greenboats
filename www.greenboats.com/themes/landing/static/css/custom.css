@@ -400,7 +400,7 @@ border-radius: 5px;
 }
 
 .dropdown-menu a{
-  background-color: #000;
+  background-color: #3462A7;
   color: #fff;
 }
 
@@ -408,4 +408,19 @@ border-radius: 5px;
   margin: 0px;
   padding: 0px;
   border: 0px;
+}
+/*.pp_content {
+  height: auto !important;
+  padding-bottom: 37px;
+}*/
+.pp_social { 
+  display: none;
+}
+.resize {
+  background: url(../images/resize.png) center center no-repeat #FFF !important;
+}
+
+.navbar-inverse .nav li.dropdown > .dropdown-toggle .caret {
+    border-top-color: #FFF !important;
+    border-bottom-color: #FFF !important;
 }

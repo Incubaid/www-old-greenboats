@@ -27,7 +27,227 @@ title = "Specifications"
 |![image](/images/s_floorplan-level1.png) | ![image](/images/s_floorplan-level2.png) |  ![image](/images/s_catamaran-graphic.png)    
             
 
+
 <div class="container-fluid">
+
+<!-- Portfolio Grid-->
+        <ul class="portfolio-grid row mgb-30">
+            
+          <!-- Column -->
+          <li data-type="web" data-id="id-1" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+              
+          <!-- Column -->
+          <li data-type="graphics" data-id="id-2" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+          
+          <!-- Column -->
+          <li data-type="graphics" data-id="id-3" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+          
+          <!-- Column -->
+          <li data-type="marketing" data-id="id-4" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+          
+          <!-- Column -->
+          <li data-type="branding" data-id="id-5" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+          
+          <!-- Column -->
+          <li data-type="graphics" data-id="id-6" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+          
+          <!-- Column -->
+          <li data-type="web" data-id="id-7" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+        
+          <!-- Column -->
+          <li data-type="branding" data-id="id-8" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+          
+          <!-- Column -->
+          <li data-type="marketing" data-id="id-9" class="span3">
+            <!-- fader -->
+            <div class="fader project">
+              <img alt="photo" src="/images/test/3-.jpg">
+              <!-- hidden -->
+              <div class="fader-hidden pcolor-bg">
+                <!-- stuff to be revealed here ! -->
+                <div class="vcenter align-center">
+                  <div class="vcenter-this project-links">
+                    <a href="/images/test/3.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
+                    <a class="title" href="#">project title name</a>
+                    <span>category name</span>
+                  </div>
+                </div>
+                <!-- /stuff to be revealed here ! -->
+              </div>
+              <!-- /hidden-->
+            </div>
+            <!-- /fader -->
+          </li>
+          <!-- Column /END -->
+              
+        </ul>
+        <!-- /Portfolio -->
+
+
+
+
+
+
     <div id="gallery" data-toggle="modal-gallery" data-target="#modal-gallery">
 		    <a data-gallery = "gallery" data-href=/images/greenboats/inside-overview2.jpg title=>
 		    	<img src="/images/s_150x100_inside-overview2.jpg" /></a>
@@ -65,3 +285,12 @@ table{
     display: inline-block;
 }
 </style>
+
+
+
+
+
+
+
+
+

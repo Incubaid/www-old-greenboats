@@ -16,6 +16,7 @@
 <link href="../../css/bootstrap.css" type="text/css" rel="stylesheet">
 <link href="../../css/bootstrap-responsive.css" type="text/css" rel="stylesheet">
 <link href="../../css/custom.css" type="text/css" rel="stylesheet">
+<link href="../../css/uikit.css" rel="stylesheet">
 </head>
 
   
@@ -38,6 +39,8 @@
   
   
         
+      
+  
       
   
   
@@ -93,8 +96,6 @@
         
       
   
-      
-  
   
         
       
@@ -109,14 +110,14 @@
   
       
   
-      
-  
-      
-  
-      
-  
   
         
+      
+  
+      
+  
+      
+  
       
   
       
@@ -199,6 +200,8 @@ h2{
     
   
     
+  
+    
       
        <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
@@ -230,6 +233,36 @@ $('#myCarousel').carousel()
 })
 } (window.jQuery)
 </script>
+
+
+<script src="../../js/uikit.min.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+      
+         
+        var $portfolioClone = $(".portfolio-grid").clone();
+        $(".portfolio-filter a").click(function (e) {
+
+          $(this).parent().removeClass("active").siblings().removeClass("active");
+
+          var $filter = $(this).parent().attr("class");
+
+          if ($filter == "all") {
+            var $filteredPortfolio = $portfolioClone.find("li");
+          } else {
+            var $filteredPortfolio = $portfolioClone.find("li[data-type~=" + $filter + "]");
+          }
+
+          $(".portfolio-grid").quicksand($filteredPortfolio, function () { $("a[data-gal^='prettyPhoto']").prettyPhoto({ hook: 'data-gal', show_title: false }) });
+
+
+          $(this).parent().addClass("active");
+          e.preventDefault();
+        });
+          
+      });
+    </script>
 <script data-no-instant>document.write('<script src="http://'
         + (location.host || 'localhost').split(':')[0]
 		+ ':1313/livereload.js?mindelay=10"></'
@@ -243,8 +276,6 @@ $('#myCarousel').carousel()
     
   
     
-  
-    
       
     
   
@@ -259,13 +290,13 @@ $('#myCarousel').carousel()
     
   
     
-  
-    
-  
-    
-  
-    
       
+    
+  
+    
+  
+    
+  
     
   
     
