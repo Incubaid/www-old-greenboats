@@ -9,6 +9,163 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Inside Gallery</title>
+      <link>http://localhost:1313/gallery/inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/inside/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+    &lt;div id=&#34;gallery&#34; data-toggle=&#34;modal-gallery&#34; data-target=&#34;#modal-gallery&#34;&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living9.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living9.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom4.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom4.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom13.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom13.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen8.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen8.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom8.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom8.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom4.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom4.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-stairs.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-stairs.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living4.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living4.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom3.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom3.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living11.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living11.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom3.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom3.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-controls.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-controls.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen3.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen3.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom12.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom12.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen-perspective.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen-perspective.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom5.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom5.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview3.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview3.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/tac_5_cab_coupee_1302851965.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_tac_5_cab_coupee_1302851965.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom5.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom5.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living12.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living12.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom15.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom15.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom17.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom17.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom6.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom6.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview5.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview5.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom9.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom9.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom16.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom16.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-sofa3.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-sofa3.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-sofa2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-sofa2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom14.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom14.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom7.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom7.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom18.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom18.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/5e_cab_1298293739.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_5e_cab_1298293739.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-hall2.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-hall2.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-sofa.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-sofa.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living13.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living13.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-overview4.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-overview4.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen7.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen7.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/loft_copie_1291628702.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_loft_copie_1291628702.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom10.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom10.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/tac_copie_1291629017.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_tac_copie_1291629017.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom11.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom11.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom6.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom6.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-kitchen5.JPG title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-kitchen5.JPG&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bedroom7.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bedroom7.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-bathroom.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-bathroom.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-controls2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-controls2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living2.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living2.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/carre_copie_1291628648.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_carre_copie_1291628648.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-living10.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-living10.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/inside-hall.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_inside-hall.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/cuisine_copie_1291628778.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_cuisine_copie_1291628778.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/cabine_copie_1291629091.jpg title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_cabine_copie_1291629091.jpg&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_080_1312532311.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_080_1312532311.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_067_1312532377.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_067_1312532377.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_122_1312532273.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_122_1312532273.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_058_1312532422.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_058_1312532422.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_108_1312532458.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_108_1312532458.gif&#34; /&gt;&lt;/a&gt;
+    &lt;a data-gallery = &#34;gallery&#34; data-href=/images/greenboats/nautitech_542_089_1312532348.gif title=Inside&gt;
+        &lt;img src=&#34;./images/s_300x200_nautitech_542_089_1312532348.gif&#34; /&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;modal-gallery&#34; class=&#34;modal modal-gallery hide fade modal-loading modal-fullscreen&#34; tabindex=&#34;-1&#34;  aria-hidden=&#34;true&#34;&gt;
+    &lt;div class=&#34;modal-header&#34;&gt; &lt;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&gt;&amp;times;&lt;/a&gt;
+
+      &lt;h3 class=&#34;modal-title&#34;&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;div class=&#34;modal-image&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+>>>>>>> 1add5716c3ec50d854063ab3b8a3bcd7f6ca4bb2
       <title>Outside Gallery</title>
       <link>http://localhost:1313/gallery/outside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -401,6 +558,8 @@
 
 &lt;img src=&#34;./images/s_300x200_carre_copie_1291628648.jpg&#34; alt=&#34;image&#34; /&gt;
 &lt;/p&gt;
+<<<<<<< HEAD
+=======
 
 &lt;p&gt;The boat is the most aesthetic and superior of this category thanks to her thin lines and her interior design done by the French designer Frank Darnet, combined with unique high end and green technology by IT automation specialist Kristof De Spiegeleer. In a word, a vessel made to live and sail!&lt;/p&gt;
 
@@ -509,6 +668,194 @@
     width: 190px;
 }
 &lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison of catamarans.</title>
+      <link>http://localhost:1313/greenboats/compare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/compare/</guid>
+      <description>
+
+&lt;p&gt;Comparison of catamarans.
+We like all boats mentioned on this page but want to demonstrate how boats can have a different mission and target market.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t agree with the comparison please send us your remarks to info@greenboats.com&lt;/p&gt;
+
+&lt;h1 id=&#34;the-100-perfect-boat-does-not-exist:8d989502a880d78d175e25ad72371529&#34;&gt;The 100% perfect boat does not exist.&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Performance
+
+&lt;ul&gt;
+&lt;li&gt;Performance of a heavy boat is +- the hull speed for a catamaran in this range this would be around 10 knots. Even if the winds pick up the boat will not go much higher than the hullspeed.&lt;/li&gt;
+&lt;li&gt;Heavy for this size means +20 Ton&lt;/li&gt;
+&lt;li&gt;Super light boats can achieve 25 knots with good wind.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Price
+
+&lt;ul&gt;
+&lt;li&gt;A very important criteria. A boat of this size will cost between 800.000 eur and 2.000.000 eur (with options included)&lt;/li&gt;
+&lt;li&gt;A super light boat costs a lot of money because of required construction techniques &amp;amp; special materials.&lt;/li&gt;
+&lt;li&gt;remark many brands sell their boats with minimal options, we try to compare with all options required to get a balanced, comfortable and fun boat.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Safety
+
+&lt;ul&gt;
+&lt;li&gt;All catamarans are safe today if used well.&lt;/li&gt;
+&lt;li&gt;The lighter and the lower the point of gravity the safer the boat will be in heavy sea &amp;amp; wind conditions.&lt;/li&gt;
+&lt;li&gt;While a flybridge is ideal from a comfort perspective it is a killer feature from a safety &amp;amp; performance perspective.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Living Space &amp;amp; Comfort
+>>>>>>> 1add5716c3ec50d854063ab3b8a3bcd7f6ca4bb2
+
+&lt;p&gt;The boat is the most aesthetic and superior of this category thanks to her thin lines and her interior design done by the French designer Frank Darnet, combined with unique high end and green technology by IT automation specialist Kristof De Spiegeleer. In a word, a vessel made to live and sail!&lt;/p&gt;
+
+&lt;h3 id=&#34;a-revolutionary-concept:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;A revolutionary concept&lt;/h3&gt;
+
+&lt;p&gt;Not each boat can be good in everything. You have boats that are the most energy efficient, those typically will not be the best performers in speed. Our dream of bringing boats to a next level is about combining the best of all boats into a single boat: Combining high tech comfort with energy saving technologies, making our boat greener and more enjoyable than ever, without making concessions to performance and reliability.&lt;/p&gt;
+
+&lt;p&gt;GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with &lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Options&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Power Option&lt;/a&gt;: Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Communication Option&lt;/a&gt;: Upgrade your Nautitech 54 with our revolutionary always-on internet connection.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Yacht Automation Option&lt;/a&gt;: Upgrade your Nautitech 54 with our remote control system including health - checks that make your boat safer and more reliable.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Navigation and Multimedia Option&lt;/a&gt;: Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;Could not find bucket pdfs&lt;/p&gt;
+
+&lt;h3 id=&#34;main-technical-characteristics:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;Main technical characteristics&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Length overall (LOA)&lt;/td&gt;
+&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Waterline length&lt;/td&gt;
+&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Maximum beam&lt;/td&gt;
+&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Draft&lt;/td&gt;
+&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+<<<<<<< HEAD
+&lt;tr&gt;
+&lt;td&gt;Mast height&lt;/td&gt;
+&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Light Displacement&lt;/td&gt;
+&lt;td&gt;34,160 Ibs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Bridge deck clearance&lt;/td&gt;
+&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Headroom&lt;/td&gt;
+&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sail area&lt;/td&gt;
+&lt;td&gt;1,539 sqft&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Engines&lt;/td&gt;
+&lt;td&gt;2 x 75 hp&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Water capacity&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Fuel capacity&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Rating&lt;/td&gt;
+&lt;td&gt;CAT A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cabins&lt;/td&gt;
+&lt;td&gt;8 passengers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.span9 img {
+    width: 190px;
+}
+&lt;/style&gt;&lt;/p&gt;
+=======
+&lt;h1 id=&#34;private-faster-travel-catamaran-go-around-the-world:8d989502a880d78d175e25ad72371529&#34;&gt;Private faster travel catamaran (go around the world)&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/Nautitech.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The quality &amp;amp; finishing is very good.&lt;/li&gt;
+&lt;li&gt;The boat has as main requirements: safety, quality &amp;amp; performance.&lt;/li&gt;
+&lt;li&gt;The price/quality/value relationship is very good.&lt;/li&gt;
+&lt;li&gt;Less space when compared to e.g. a Lagoon 560. No flybridge.&lt;/li&gt;
+&lt;li&gt;This is probably the most cost effective high performance catamaran optimized for sailing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;fast-super-light-sport-catamaran:8d989502a880d78d175e25ad72371529&#34;&gt;Fast super light sport catamaran&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/Gunboat.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Super high performance boat. All carbon &amp;amp; special materials.&lt;/li&gt;
+&lt;li&gt;If you are looking for the fastest boat this could be it.&lt;/li&gt;
+&lt;li&gt;Quite expensive though.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;greenboat-greenest-fast-ultra-comfortable-family-boat:8d989502a880d78d175e25ad72371529&#34;&gt;GreenBoat: greenest, fast, ultra comfortable family boat&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/TheGreenCat.JPG&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A new kind of boat with different accents, made for the people who want comfort, safety &amp;amp; performance at reasonable price.&lt;/li&gt;
+&lt;li&gt;The GreenCat is based on the Nautitech 54.&lt;/li&gt;
+&lt;li&gt;But Greenboats is more performant because of sails &amp;amp; lighter rotating mast used.&lt;/li&gt;
+&lt;li&gt;This is probably the greenest boat available in the market.&lt;/li&gt;
+&lt;/ul&gt;
+>>>>>>> 1add5716c3ec50d854063ab3b8a3bcd7f6ca4bb2
 </description>
     </item>
     
@@ -1037,6 +1384,7 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>header</title>
       <link>http://localhost:1313/home/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1048,6 +1396,10 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     <item>
       <title>product</title>
       <link>http://localhost:1313/home/product/</link>
+=======
+      <title>footer_box</title>
+      <link>http://localhost:1313/home/footer_box/</link>
+>>>>>>> 1add5716c3ec50d854063ab3b8a3bcd7f6ca4bb2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/home/product/</guid>
@@ -1055,15 +1407,24 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>second_section</title>
       <link>http://localhost:1313/home/second_section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/home/second_section/</guid>
+=======
+      <title>intro_slider_box</title>
+      <link>http://localhost:1313/home/intro_slider_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/intro_slider_box/</guid>
+>>>>>>> 1add5716c3ec50d854063ab3b8a3bcd7f6ca4bb2
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>IT As Energy</title>
       <link>http://localhost:1313/it-as-energy</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1105,6 +1466,35 @@ The reliance on IT as natural resource for companies and society is as important
     </item>
     
     <item>
+=======
+      <title>second_section</title>
+      <link>http://localhost:1313/home/second_section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/second_section/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>http://localhost:1313/home/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>http://localhost:1313/home/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+>>>>>>> 1add5716c3ec50d854063ab3b8a3bcd7f6ca4bb2
       <title>Contact Us</title>
       <link>http://localhost:1313/contact-us</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
