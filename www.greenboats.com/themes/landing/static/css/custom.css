@@ -7,7 +7,7 @@
     body {
       padding-bottom: 40px;
       color: #5a5a5a;
-      font-size: 14px; 
+      font-size: 14px;
       background:#ececee;
     }
 
@@ -424,3 +424,18 @@ border-radius: 5px;
     border-top-color: #FFF !important;
     border-bottom-color: #FFF !important;
 }
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+
+margin-bottom: 69px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;/* Set the fixed height of the footer here */
+}
+.container.marketing { padding-top: 50px;}

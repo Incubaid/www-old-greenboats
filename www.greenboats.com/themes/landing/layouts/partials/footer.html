@@ -3,12 +3,18 @@
   {{ range $element :=  $.Site.Pages }}
     {{ if eq .Section "home" }}
       {{ if eq .Title "footer_box" }}
+       </div>
        <footer>
+       <div class="container">
+          <!--  START THE FEATURETTES -->
+<hr class="featurette-divider">
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>© 2013 Green Charters. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+       </div>
+      
         
       </footer>
-</div>
+
 <!-- /.container --> 
 
 
