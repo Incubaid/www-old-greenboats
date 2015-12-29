@@ -363,7 +363,9 @@
   table-layout: fixed; }
   .vcenter .vcenter-this {
     display: table-cell;
-    vertical-align: middle; }
+    vertical-align: middle;
+    padding-top: 20px;
+    }
 
 /* Media Specific */
 .width-100pc {
@@ -2078,7 +2080,7 @@ input[type="checkbox"] {
 html {
   position: relative;
   display: block;
-  height: 100%; }
+  }
 
 body {
   min-height: 100%;
@@ -4840,4 +4842,5 @@ table.cart-contents {
     width: 150px; }
   @media (max-width: 767px) {
     #style-switcher {
-      display: none; } }
+      display: none; } 
+    }
