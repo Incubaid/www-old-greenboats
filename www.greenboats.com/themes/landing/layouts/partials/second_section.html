@@ -2,12 +2,16 @@
 {{ range $element :=  $.Site.Pages }}
 
        {{ if eq .Title "second_section" }}
-					<div class="container marketing"> 
+					<div class="container marketing info-part"> 
   <!-- Three columns of text below the carousel -->
   <div class="row">
     <div class="span4 ic">
       <h2 class="title">{{.Params.left_title}}</h2>
       <p>{{.Params.left_text}}</p>
+       <hr>
+       <a class="c1"></a>
+       <a class="c2"></a>
+       <a class="c3"></a>
     </div>
     <!-- /.span4 -->
     <div class="span4 homemid ">
@@ -26,3 +30,4 @@
  
 					{{ end }}
 {{ end }}
+

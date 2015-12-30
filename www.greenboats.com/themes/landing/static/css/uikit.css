@@ -1435,7 +1435,6 @@ p, ul, ol, dt, blockquote, figure, pre, table, fieldset {
 
 hr {
   margin: 23px 0;
-  border: none;
   border-top: 1px solid #ddd; }
   hr.y-200pc {
     margin: 46px 0; }
