@@ -38,7 +38,7 @@ menuitem_link4 ="/shows"
 menuitem_title5 = "Our Mission"
 menuitem_link5 ="/our-mission"
 
-menuitem_title6 = "Contact Us2"
+menuitem_title6 = "Contact Us"
 menuitem_link6 ="/contact-us"
 
 
