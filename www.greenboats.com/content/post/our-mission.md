@@ -2,8 +2,6 @@
 title = "Our Mission"
 +++
 
-
-
 We believe that today people looking for a catamaran between 46 & 60 feet only have 2 options.
 
 We believe there is a market for a boat with a different approach as outligned in the following diagram.

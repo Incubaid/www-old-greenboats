@@ -95,10 +95,11 @@
     }
 
     .carousel-caption {
-      background-color: transparent;
+      background: rgba(0, 0, 0, 0.3);
+      
       position: static;
       max-width: 450px;
-      padding: 0 20px;
+      padding: 10px 20px;
       margin-top: 80px;
     }
     .carousel-caption h1,
@@ -257,14 +258,13 @@
     .homemid h2 { font-size:60px; margin: 20px 0;  color:#ccc; text-shadow:0 1px #666;}
     .homemid p { color:#666; }
     .marketing h2 {  text-shadow: 0 1px #FFFFFF; color: #43464C; }
-    .map { background:  url("../images/map.png") no-repeat scroll center bottom; height:140px; width:100%;  display:block;}
+    .map { background:  url("../images/map.png") no-repeat scroll center bottom; height:140px; width:100%;  display:block; }
     
     
-    .ic a { height: 86px; width:86px;  display:inline-block;   margin: 0 17px; background-position:center top;  margin-top:15px;}
-    .ic a:hover { background-position:center bottom;  }
+    .ic div { height: 86px; width:86px;  display:inline-block;   margin: 0 17px; background-position:center top;  margin-top:15px; background-position:center bottom; }
     .c1 { background-image: url("../images/c1.png");}
-     .c2 { background-image: url("../images/c2.png");}
-      .c3 { background-image: url("../images/c3.png");}
+    .c2 { background-image: url("../images/c2.png");}
+    .c3 { background-image: url("../images/c3.png");}
       
       
       .phead { margin-top:90px;}

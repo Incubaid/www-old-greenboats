@@ -233,12 +233,6 @@ title = "Specifications"
               
         </ul>
         <!-- /Portfolio -->
-
-
-
-
-
-
     
 </div>
 

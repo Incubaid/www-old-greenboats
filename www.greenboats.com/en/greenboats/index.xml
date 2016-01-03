@@ -189,77 +189,92 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Length overall (LOA)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Waterline length&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Maximum beam&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Draft&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Mast height&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Light Displacement&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;34,160 Ibs&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Bridge deck clearance&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Headroom&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Sail area&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;1,539 sqft&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Engines&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;2 x 75 hp&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Water capacity&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;211 USGal&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Fuel capacity&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;211 USGal&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Rating&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;CAT A&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Cabins&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;8 passengers&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -269,12 +284,15 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 .span9 img {
     width: 190px;
 }
+td{
+    padding-right: 20px;
+}
 &lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Option Packages for GreenCat 54 </title>
+      <title>Option Packages for GreenCat 54</title>
       <link>http://localhost:1313/greenboats/green-tech-options/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -683,12 +701,6 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
               
         &lt;/ul&gt;
         &lt;!-- /Portfolio --&gt;
-
-
-
-
-
-
     
 &lt;/div&gt;
 

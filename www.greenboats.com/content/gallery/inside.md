@@ -3,9 +3,7 @@ title= "Inside Gallery"
 +++
 
 <div class="container-fluid">
-
-        <ul class="portfolio-grid row mgb-30">
-                      
+        <ul class="portfolio-grid row mgb-30">             
           <li data-type="web" data-id="id-1" class="span2">            
             <div class="fader project">
               <img alt="photo" src="/images/gallery/inside/thumb/1.jpg">              
@@ -274,15 +272,6 @@ title= "Inside Gallery"
               </div>              
             </div>            
           </li> 
-            
-
-
-
-
-
-
-
-
 
           <li data-type="web" data-id="id-1" class="span2">            
             <div class="fader project">
@@ -325,9 +314,7 @@ title= "Inside Gallery"
               </div>              
             </div>            
           </li>          
-                    
-                   
-                    
+                               
           <li data-type="branding" data-id="id-5" class="span2">            
             <div class="fader project">
               <img alt="photo" src="/images/gallery/inside/thumb/26.jpg">              
@@ -737,12 +724,13 @@ title= "Inside Gallery"
                 <div class="vcenter align-center">
                   <div class="vcenter-this project-links">
                     <a href="/images/gallery/inside/56.jpg" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
-                    
+   
                   </div>
                 </div>                
               </div>              
             </div>            
-          </li> 
+          </li>
+
           <li data-type="marketing" data-id="id-9" class="span2">            
             <div class="fader project">
               <img alt="photo" src="/images/gallery/inside/thumb/57.jpg">              
@@ -873,9 +861,7 @@ title= "Inside Gallery"
               </div>              
             </div>            
           </li> 
-
-
-              
+      
         </ul>        
 
 

@@ -3,7 +3,6 @@ title= "Sailing Gallery"
 +++
 
 <div class="container-fluid">
-
         <ul class="portfolio-grid row mgb-30">
                       
           <li data-type="web" data-id="id-1" class="span2">            
@@ -276,11 +275,5 @@ title= "Sailing Gallery"
           </li>         
               
         </ul>        
-
-
-
-
-
-
     
 </div>

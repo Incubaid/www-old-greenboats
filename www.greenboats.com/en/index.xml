@@ -9,610 +9,13 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Outside Gallery</title>
-      <link>http://localhost:1313/gallery/outside/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gallery/outside/</guid>
-      <description>&lt;div class=&#34;container-fluid&#34;&gt;
-
-        &lt;ul class=&#34;portfolio-grid row mgb-30&#34;&gt;
-                      
-          &lt;li data-type=&#34;web&#34; data-id=&#34;id-1&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/1.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/1.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                        
-          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-2&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/2.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/2.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-3&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/3.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/3.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-4&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/4.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/4.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-5&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/5.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/5.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-6&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/6.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/6.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;web&#34; data-id=&#34;id-7&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/7.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/7.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                  
-          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-8&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/8.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/8.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/9.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/9.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;  
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/10.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/10.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/11.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/11.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/12.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/12.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/13.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/13.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/14.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/14.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/15.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/15.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/16.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/16.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/17.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/17.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/18.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/18.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/19.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/19.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/20.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/20.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/21.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/outside/21.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;         
-              
-        &lt;/ul&gt;        
-
-
-
-
-
-
-    
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sailing Gallery</title>
-      <link>http://localhost:1313/gallery/sailing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/gallery/sailing/</guid>
-      <description>&lt;div class=&#34;container-fluid&#34;&gt;
-
-        &lt;ul class=&#34;portfolio-grid row mgb-30&#34;&gt;
-                      
-          &lt;li data-type=&#34;web&#34; data-id=&#34;id-1&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/1.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/1.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                        
-          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-2&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/2.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/2.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-3&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/3.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/3.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-4&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/4.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/4.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-5&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/5.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/5.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-6&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/6.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/6.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;web&#34; data-id=&#34;id-7&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/7.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/7.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                  
-          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-8&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/8.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/8.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;          
-                    
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/9.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/9.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;  
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/10.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/10.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/11.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/11.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/12.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/12.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/13.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/13.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/14.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/14.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/15.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/15.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/16.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/16.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/17.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/17.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/18.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/18.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/19.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/19.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt; 
-          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
-            &lt;div class=&#34;fader project&#34;&gt;
-              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/20.jpg&#34;&gt;              
-              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
-                &lt;div class=&#34;vcenter align-center&#34;&gt;
-                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
-                    &lt;a href=&#34;./images/gallery/sailing/20.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
-                  &lt;/div&gt;
-                &lt;/div&gt;                
-              &lt;/div&gt;              
-            &lt;/div&gt;            
-          &lt;/li&gt;         
-              
-        &lt;/ul&gt;        
-
-
-
-
-
-
-    
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Inside Gallery</title>
       <link>http://localhost:1313/gallery/inside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/gallery/inside/</guid>
       <description>&lt;div class=&#34;container-fluid&#34;&gt;
-
-        &lt;ul class=&#34;portfolio-grid row mgb-30&#34;&gt;
-                      
+        &lt;ul class=&#34;portfolio-grid row mgb-30&#34;&gt;             
           &lt;li data-type=&#34;web&#34; data-id=&#34;id-1&#34; class=&#34;span2&#34;&gt;            
             &lt;div class=&#34;fader project&#34;&gt;
               &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/inside/thumb/1.jpg&#34;&gt;              
@@ -881,15 +284,6 @@
               &lt;/div&gt;              
             &lt;/div&gt;            
           &lt;/li&gt; 
-            
-
-
-
-
-
-
-
-
 
           &lt;li data-type=&#34;web&#34; data-id=&#34;id-1&#34; class=&#34;span2&#34;&gt;            
             &lt;div class=&#34;fader project&#34;&gt;
@@ -932,9 +326,7 @@
               &lt;/div&gt;              
             &lt;/div&gt;            
           &lt;/li&gt;          
-                    
-                   
-                    
+                               
           &lt;li data-type=&#34;branding&#34; data-id=&#34;id-5&#34; class=&#34;span2&#34;&gt;            
             &lt;div class=&#34;fader project&#34;&gt;
               &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/inside/thumb/26.jpg&#34;&gt;              
@@ -1344,12 +736,13 @@
                 &lt;div class=&#34;vcenter align-center&#34;&gt;
                   &lt;div class=&#34;vcenter-this project-links&#34;&gt;
                     &lt;a href=&#34;./images/gallery/inside/56.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-                    
+   
                   &lt;/div&gt;
                 &lt;/div&gt;                
               &lt;/div&gt;              
             &lt;/div&gt;            
-          &lt;/li&gt; 
+          &lt;/li&gt;
+
           &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
             &lt;div class=&#34;fader project&#34;&gt;
               &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/inside/thumb/57.jpg&#34;&gt;              
@@ -1480,8 +873,309 @@
               &lt;/div&gt;              
             &lt;/div&gt;            
           &lt;/li&gt; 
+      
+        &lt;/ul&gt;        
 
 
+
+
+
+
+    
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outside Gallery</title>
+      <link>http://localhost:1313/gallery/outside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/outside/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;ul class=&#34;portfolio-grid row mgb-30&#34;&gt;
+                      
+          &lt;li data-type=&#34;web&#34; data-id=&#34;id-1&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/1.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/1.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                        
+          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-2&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/2.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/2.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-3&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/3.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/3.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-4&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/4.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/4.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-5&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/5.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/5.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-6&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/6.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/6.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;web&#34; data-id=&#34;id-7&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/7.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/7.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                  
+          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-8&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/8.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/8.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/9.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/9.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;  
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/10.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/10.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/11.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/11.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/12.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/12.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/13.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/13.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/14.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/14.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/15.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/15.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/16.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/16.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/17.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/17.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/18.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/18.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/19.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/19.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/20.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/20.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/outside/thumb/21.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/outside/21.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;         
               
         &lt;/ul&gt;        
 
@@ -1490,6 +1184,290 @@
 
 
 
+    
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sailing Gallery</title>
+      <link>http://localhost:1313/gallery/sailing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gallery/sailing/</guid>
+      <description>&lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;ul class=&#34;portfolio-grid row mgb-30&#34;&gt;
+                      
+          &lt;li data-type=&#34;web&#34; data-id=&#34;id-1&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/1.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/1.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                        
+          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-2&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/2.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/2.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-3&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/3.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/3.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-4&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/4.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/4.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-5&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/5.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/5.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;graphics&#34; data-id=&#34;id-6&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/6.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/6.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;web&#34; data-id=&#34;id-7&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/7.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/7.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                  
+          &lt;li data-type=&#34;branding&#34; data-id=&#34;id-8&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/8.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/8.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;          
+                    
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/9.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/9.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;  
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/10.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/10.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/11.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/11.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/12.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/12.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/13.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/13.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/14.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/14.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/15.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/15.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/16.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/16.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/17.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/17.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/18.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/18.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/19.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/19.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt; 
+          &lt;li data-type=&#34;marketing&#34; data-id=&#34;id-9&#34; class=&#34;span2&#34;&gt;            
+            &lt;div class=&#34;fader project&#34;&gt;
+              &lt;img alt=&#34;photo&#34; src=&#34;./images/gallery/sailing/thumb/20.jpg&#34;&gt;              
+              &lt;div class=&#34;fader-hidden pcolor-bg&#34;&gt;                
+                &lt;div class=&#34;vcenter align-center&#34;&gt;
+                  &lt;div class=&#34;vcenter-this project-links&#34;&gt;
+                    &lt;a href=&#34;./images/gallery/sailing/20.jpg&#34; data-gal=&#34;prettyPhoto[portfolio]&#34;&gt;&lt;i class=&#34;fa fa-expand resize&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+                    
+                  &lt;/div&gt;
+                &lt;/div&gt;                
+              &lt;/div&gt;              
+            &lt;/div&gt;            
+          &lt;/li&gt;         
+              
+        &lt;/ul&gt;        
     
 &lt;/div&gt;
 </description>
@@ -1625,7 +1603,7 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
     </item>
     
     <item>
-      <title>Option Packages for GreenCat 54 </title>
+      <title>Option Packages for GreenCat 54</title>
       <link>http://localhost:1313/greenboats/green-tech-options/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1718,6 +1696,160 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
 
 &lt;p&gt;&lt;img src=&#34;./images/greentechnavigationoption.png&#34; alt=&#34;image&#34; /&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GreenBoat</title>
+      <link>http://localhost:1313/greenboats/greenboats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/greenboats/greenboats/</guid>
+      <description>
+
+&lt;p&gt;We present you a revolutionary new catamaran, since we made it to be best in all categories: Design, Green, Performant, High Tech, Spacious, Reliable and Cost Efficient …&lt;/p&gt;
+
+&lt;p&gt;Its main characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A sophisticated and refined boat&lt;/li&gt;
+&lt;li&gt;A light, performant boat&lt;/li&gt;
+&lt;li&gt;Flush-fitting hatches for a clear deck&lt;/li&gt;
+&lt;li&gt;Trendy interior design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/s_300x200_r.jpg&#34; alt=&#34;image&#34; /&gt;
+
+&lt;img src=&#34;./images/s_300x200_nauti-54-photo-couv-ok_1302851904.jpg&#34; alt=&#34;image&#34; /&gt;
+
+&lt;img src=&#34;./images/s_300x200_carre_copie_1291628648.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The boat is the most aesthetic and superior of this category thanks to her thin lines and her interior design done by the French designer Frank Darnet, combined with unique high end and green technology by IT automation specialist Kristof De Spiegeleer. In a word, a vessel made to live and sail!&lt;/p&gt;
+
+&lt;h3 id=&#34;a-revolutionary-concept:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;A revolutionary concept&lt;/h3&gt;
+
+&lt;p&gt;Not each boat can be good in everything. You have boats that are the most energy efficient, those typically will not be the best performers in speed. Our dream of bringing boats to a next level is about combining the best of all boats into a single boat: Combining high tech comfort with energy saving technologies, making our boat greener and more enjoyable than ever, without making concessions to performance and reliability.&lt;/p&gt;
+
+&lt;p&gt;GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with &lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Options&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Power Option&lt;/a&gt;: Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Communication Option&lt;/a&gt;: Upgrade your Nautitech 54 with our revolutionary always-on internet connection.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Yacht Automation Option&lt;/a&gt;: Upgrade your Nautitech 54 with our remote control system including health - checks that make your boat safer and more reliable.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Navigation and Multimedia Option&lt;/a&gt;: Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;Could not find bucket pdfs&lt;/p&gt;
+
+&lt;h3 id=&#34;main-technical-characteristics:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;Main technical characteristics&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Length overall (LOA)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Waterline length&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Maximum beam&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Draft&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mast height&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Light Displacement&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;34,160 Ibs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Bridge deck clearance&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Headroom&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sail area&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1,539 sqft&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Engines&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2 x 75 hp&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Water capacity&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Fuel capacity&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;211 USGal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Rating&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;CAT A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cabins&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;8 passengers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.span9 img {
+    width: 190px;
+}
+td{
+    padding-right: 20px;
+}
+&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2034,12 +2166,6 @@ We like all boats mentioned on this page but want to demonstrate how boats can h
               
         &lt;/ul&gt;
         &lt;!-- /Portfolio --&gt;
-
-
-
-
-
-
     
 &lt;/div&gt;
 
@@ -2055,183 +2181,11 @@ table{
     </item>
     
     <item>
-      <title>GreenBoat</title>
-      <link>http://localhost:1313/greenboats/greenboats/</link>
+      <title>second_section</title>
+      <link>http://localhost:1313/home/second_section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/greenboats/greenboats/</guid>
-      <description>
-
-&lt;p&gt;We present you a revolutionary new catamaran, since we made it to be best in all categories: Design, Green, Performant, High Tech, Spacious, Reliable and Cost Efficient …&lt;/p&gt;
-
-&lt;p&gt;Its main characteristics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A sophisticated and refined boat&lt;/li&gt;
-&lt;li&gt;A light, performant boat&lt;/li&gt;
-&lt;li&gt;Flush-fitting hatches for a clear deck&lt;/li&gt;
-&lt;li&gt;Trendy interior design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/s_300x200_r.jpg&#34; alt=&#34;image&#34; /&gt;
-
-&lt;img src=&#34;./images/s_300x200_nauti-54-photo-couv-ok_1302851904.jpg&#34; alt=&#34;image&#34; /&gt;
-
-&lt;img src=&#34;./images/s_300x200_carre_copie_1291628648.jpg&#34; alt=&#34;image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The boat is the most aesthetic and superior of this category thanks to her thin lines and her interior design done by the French designer Frank Darnet, combined with unique high end and green technology by IT automation specialist Kristof De Spiegeleer. In a word, a vessel made to live and sail!&lt;/p&gt;
-
-&lt;h3 id=&#34;a-revolutionary-concept:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;A revolutionary concept&lt;/h3&gt;
-
-&lt;p&gt;Not each boat can be good in everything. You have boats that are the most energy efficient, those typically will not be the best performers in speed. Our dream of bringing boats to a next level is about combining the best of all boats into a single boat: Combining high tech comfort with energy saving technologies, making our boat greener and more enjoyable than ever, without making concessions to performance and reliability.&lt;/p&gt;
-
-&lt;p&gt;GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with &lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Options&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Power Option&lt;/a&gt;: Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Communication Option&lt;/a&gt;: Upgrade your Nautitech 54 with our revolutionary always-on internet connection.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Yacht Automation Option&lt;/a&gt;: Upgrade your Nautitech 54 with our remote control system including health - checks that make your boat safer and more reliable.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./GreenBoats/green-tech-options&#34;&gt;Green Tech Navigation and Multimedia Option&lt;/a&gt;: Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;download:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Could not find bucket pdfs&lt;/p&gt;
-
-&lt;h3 id=&#34;main-technical-characteristics:5906083da1ce8bcb1ac3d2f02c0d35d6&#34;&gt;Main technical characteristics&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Length overall (LOA)&lt;/td&gt;
-&lt;td&gt;54&amp;rsquo;48&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Waterline length&lt;/td&gt;
-&lt;td&gt;52&amp;rsquo;49&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Maximum beam&lt;/td&gt;
-&lt;td&gt;28&amp;rsquo;05&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Draft&lt;/td&gt;
-&lt;td&gt;5&amp;rsquo;01&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Mast height&lt;/td&gt;
-&lt;td&gt;68&amp;rsquo;89&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Light Displacement&lt;/td&gt;
-&lt;td&gt;34,160 Ibs&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Bridge deck clearance&lt;/td&gt;
-&lt;td&gt;3&amp;rsquo;28&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Headroom&lt;/td&gt;
-&lt;td&gt;6&amp;rsquo;56&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Sail area&lt;/td&gt;
-&lt;td&gt;1,539 sqft&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Engines&lt;/td&gt;
-&lt;td&gt;2 x 75 hp&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Water capacity&lt;/td&gt;
-&lt;td&gt;211 USGal&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Fuel capacity&lt;/td&gt;
-&lt;td&gt;211 USGal&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Rating&lt;/td&gt;
-&lt;td&gt;CAT A&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Cabins&lt;/td&gt;
-&lt;td&gt;8 passengers&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
-.span9 img {
-    width: 190px;
-}
-&lt;/style&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>aboutus_box</title>
-      <link>http://localhost:1313/home/aboutus_box/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/aboutus_box/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intro_slider_box</title>
-      <link>http://localhost:1313/home/intro_slider_box/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/intro_slider_box/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>header</title>
-      <link>http://localhost:1313/home/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/header/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>product</title>
-      <link>http://localhost:1313/home/product/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/product/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>footer_box</title>
-      <link>http://localhost:1313/home/footer_box/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/footer_box/</guid>
+      <guid>http://localhost:1313/home/second_section/</guid>
       <description></description>
     </item>
     
@@ -2286,44 +2240,21 @@ table{
     </item>
     
     <item>
-      <title>IT As Energy</title>
-      <link>http://localhost:1313/it-as-energy</link>
+      <title>intro_slider_box</title>
+      <link>http://localhost:1313/home/intro_slider_box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/it-as-energy</guid>
-      <description>
-
-&lt;h2 id=&#34;it-energy:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;IT = Energy&lt;/h2&gt;
-
-&lt;p&gt;Energy is driving our global economy and the welfare of our society. The importance of Energy is driving the creation and adoption of new Energy sources, such as solar and hydro power, renewable and Green Energy, so more and more people can take advantage of it.&lt;/p&gt;
-
-&lt;p&gt;But IT is also Energy.
-The reliance on IT as natural resource for companies and society is as important as electricity. Electricity was the primary energy source for the industrial revolution to happen, disrupting the agricultural society. But now we have entered the informational revolution in which IT is the primary resource for computer automation and ubiquitous digitization.&lt;/p&gt;
-
-&lt;h2 id=&#34;it-evolution:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;IT Evolution&lt;/h2&gt;
-
-&lt;p&gt;IT has evolved into the integration and stacking of thousands of independant IT components,  dedicated servers, storage systems and networking hardware. This led to very complex and unreliable infrastructure stack which is very costly to maintain.&lt;/p&gt;
-
-&lt;p&gt;Virtualization enabled the spread IT workloads over different hardware, while the IT workloads took up less capacity from the dedicated servers. This led to a reduction in power consumption and more flexibility to create new and maintain existing IT workloads.&lt;/p&gt;
-
-&lt;p&gt;Today we have entered “The Cloud” era in which IT workloads can be created faster as no dedicated hardware needs to be purchased and installed. The interfaces provide great flexibility to IT administrators to manage and maintain IT workloads, when you consolidate all your workloads in the same Cloud, e.g. Amazon, Microsoft Azure, Google, Rackspace Cloud, etc.&lt;/p&gt;
-
-&lt;p&gt;Cloud services deliver us tools and interfaces which make it easy to organize and maintain virtualized workloads. Painfully, all this extra flexibility results in a more abstract use of IT without any standardisation. Each cloud works completely different and behaves different when running business applications and a variety of IT workloads.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-comes-after-cloud-it-as-energy:b6fc58c5a6ea05368aee7922067ab31f&#34;&gt;What Comes After Cloud? IT as Energy!&lt;/h2&gt;
-
-&lt;p&gt;Green IT Globe introduces the IT as Energy concept to deliver only the benefits from cloud services, but not its limitations and complexity.&lt;/p&gt;
-
-&lt;p&gt;Green IT Globe delivers its concept through “IT As Energy Generators” based on the requirements of many customers asking for following benefits:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lower my Total Cost of Ownership&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Make my IT Secure and Private&lt;/li&gt;
-&lt;li&gt;Make my IT Extremely Simple&lt;/li&gt;
-&lt;li&gt;Make my IT Ultra Reliable&lt;/li&gt;
-&lt;li&gt;Make my IT Available Everywhere&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://localhost:1313/home/intro_slider_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>footer_box</title>
+      <link>http://localhost:1313/home/footer_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/footer_box/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2357,6 +2288,55 @@ h2{
 }
 &lt;/style&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>http://localhost:1313/home/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shows</title>
+      <link>http://localhost:1313/shows</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/shows</guid>
+      <description>&lt;p&gt;We are always present on the booth of Nautitech on major boat shows.&lt;/p&gt;
+
+&lt;p&gt;Pre-register to visit the GreenBoat now!: E-mail us at: &lt;a href=&#34;register@greenboats.com&#34;&gt;register@greenboats.com&lt;/a&gt; .&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Miami Boatshow
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.miamiboatshow.com&#34;&gt;www.miamiboatshow.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Cannes Boatshow
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.salonnautiquecannes.com&#34;&gt;www.salonnautiquecannes.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Le Grand Pavois de La Rochelle
+www.grand-pavois.com
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.grand-pavois.com&#34;&gt;www.grand-pavois.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/video/</guid>
+      <description></description>
     </item>
     
   </channel>

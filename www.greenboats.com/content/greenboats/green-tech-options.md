@@ -1,5 +1,5 @@
 +++
-title = "Option Packages for GreenCat 54 "
+title = "Option Packages for GreenCat 54"
 +++
 
 ## Green Tech Power Option
