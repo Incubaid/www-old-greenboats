@@ -18,7 +18,7 @@ sub_menuitem_title2_3 = "Green Tech Options"
 sub_menuitem_link2_3 ="/GreenBoats/green-tech-options"
 
 sub_menuitem_title2_4 = "Compare"
-sub_menuitem_link2_4 ="/GreenBoats/compare"
+sub_menuitem_link2_4 ="/compare"
 
 sub_menuitem_title2_5 = "Video"
 sub_menuitem_link2_5 ="/video"
