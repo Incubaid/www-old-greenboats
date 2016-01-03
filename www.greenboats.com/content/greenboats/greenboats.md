@@ -21,12 +21,12 @@ The boat is the most aesthetic and superior of this category thanks to her thin 
 Not each boat can be good in everything. You have boats that are the most energy efficient, those typically will not be the best performers in speed. Our dream of bringing boats to a next level is about combining the best of all boats into a single boat: Combining high tech comfort with energy saving technologies, making our boat greener and more enjoyable than ever, without making concessions to performance and reliability.
 
 
-GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with [Green Tech Options](/GreenBoats/green-tech-options):
+GreenBoat is the Nauitech 54 Catamaran that is extended by Greenboats with [Green Tech Options](/greenBoats/green-tech-options):
 
-- [Green Tech Power Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.
-- [Green Tech Communication Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 with our revolutionary always-on internet connection.
-- [Green Tech Yacht Automation Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 with our remote control system including health - checks that make your boat safer and more reliable.
-- [Green Tech Navigation and Multimedia Option](/GreenBoats/green-tech-options): Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.
+- [Green Tech Power Option](/greenBoats/green-tech-options): Upgrade your Nautitech 54 catamaran to make it quieter, greener and more comfortable.
+- [Green Tech Communication Option](/greenBoats/green-tech-options): Upgrade your Nautitech 54 with our revolutionary always-on internet connection.
+- [Green Tech Yacht Automation Option](/greenBoats/green-tech-options): Upgrade your Nautitech 54 with our remote control system including health - checks that make your boat safer and more reliable.
+- [Green Tech Navigation and Multimedia Option](/greenBoats/green-tech-options): Upgrade your Nautitech 54 with our exclusive and most complete navigation and multimedia system.
 
 ### Download
 Could not find bucket pdfs

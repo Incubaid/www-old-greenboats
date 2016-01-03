@@ -9,16 +9,16 @@ menuitem_title1 = "Home"
 menuitem_link1 ="/"
 
 menuitem_title2 = "GreenBoat"
-menuitem_link2 ="/GreenBoats/greenBoats"
+menuitem_link2 ="/greenBoats/greenBoats"
 
 sub_menuitem_title2_2 = "Specifications"
-sub_menuitem_link2_2 ="/GreenBoats/specifications"
+sub_menuitem_link2_2 ="/greenBoats/specifications"
 
 sub_menuitem_title2_3 = "Green Tech Options"
-sub_menuitem_link2_3 ="/GreenBoats/green-tech-options"
+sub_menuitem_link2_3 ="/greenBoats/green-tech-options"
 
 sub_menuitem_title2_4 = "Compare"
-sub_menuitem_link2_4 ="/GreenBoats/compare"
+sub_menuitem_link2_4 ="/greenBoats/compare"
 
 sub_menuitem_title2_5 = "Video"
 sub_menuitem_link2_5 ="/video"
