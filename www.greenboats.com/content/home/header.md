@@ -8,14 +8,11 @@ img_link ="/"
 menuitem_title1 = "Home"
 menuitem_link1 ="/"
 
-menuitem_title2 = "GreenBoat"
-menuitem_link2 ="/greenboats/greenboats"
+
 
 sub_menuitem_title2_2 = "Specifications"
 sub_menuitem_link2_2 ="/greenboats/specifications"
 
-sub_menuitem_title2_3 = "Green Tech Options"
-sub_menuitem_link2_3 ="/greenboats/green-tech-options"
 
 sub_menuitem_title2_4 = "Compare"
 sub_menuitem_link2_4 ="/greenboats/compare"
@@ -41,5 +38,6 @@ menuitem_link5 ="/our-mission"
 menuitem_title6 = "Contact Us"
 menuitem_link6 ="/contact-us"
 
-
+menuitem_title7 = "GreenCharters"
+menuitem_link7 ="#"
 +++
