@@ -2,7 +2,7 @@
 #Don't remove name!
 title = "header"
 
-img_logo ="/images/Greenboats logo.png"
+img_logo ="/images/greenboats logo.png"
 img_link ="/"
 
 menuitem_title1 = "Home"
