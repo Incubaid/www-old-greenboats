@@ -57,7 +57,11 @@
     .navbar .btn-navbar {
       margin-top: 10px;
     }
-
+    .charters-logo{
+     width: 120px;
+     background-color: #3248A0;
+     
+    }
 
 
     /* CUSTOMIZE THE NAVBAR

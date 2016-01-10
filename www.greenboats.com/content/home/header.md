@@ -38,6 +38,8 @@ menuitem_link5 ="/our-mission"
 menuitem_title6 = "Contact Us"
 menuitem_link6 ="/contact-us"
 
-menuitem_title7 = "GreenCharters"
-menuitem_link7 ="#"
+menuitem_title7 = "/images/greencharters-logo.png"
+menuitem_link7 ="/"
+
+
 +++
