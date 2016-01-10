@@ -1,4 +1,4 @@
-http://gig-new-greenboats:3823{
+http://gig-new-greenboats.aydo.com:3823 {
     bind 0.0.0.0
     gzip
     root www.greenboats.com/en
@@ -7,6 +7,6 @@ http://gig-new-greenboats:3823{
        interval 300
        key ../keys/id_rsa
        path ../..
-       then ./hugo-init
+       then hugo -s www.greenboats.com
     }
 }
