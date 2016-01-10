@@ -1,12 +1,12 @@
 http://gig-new-greenboats:3823{
     bind 0.0.0.0
     gzip
-    root www.greenboats.com
+    root www.greenboats.com/en
     git {
        repo git@git.aydo.com:static-websites/www-new-greenboats.git
        interval 300
        key ../keys/id_rsa
-       path ../
+       path ../..
        then ./hugo-init
     }
 }

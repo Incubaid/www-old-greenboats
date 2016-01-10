@@ -1,4 +1,4 @@
-@import url(/en/css/prettyPhoto.css);
+@import url(/css/prettyPhoto.css);
 .font-roboto {
   font-family: "Roboto"; }
 
@@ -602,7 +602,7 @@ pre, code, .container .jumbotron,
   background-color: #DFF0D8;
   border-color: #D6E9C6 !important; }
 
-/* GRID 
+/* GRID
 -------------------------------------------- */
 .grid-10.row {
   margin-left: -5px;
@@ -941,7 +941,7 @@ pre {
   .btn.btn-bigger.btn-xs {
     padding: 0.7em 1.9em; }
 
-/* FORMS 
+/* FORMS
 -------------------------------------------*/
 label {
   font-weight: normal; }
@@ -1423,7 +1423,7 @@ label {
 /* TYPOGRAPHY
 -------------------------------------------------- */
 
-  
+
 
 
 
@@ -1581,7 +1581,7 @@ input[type="checkbox"] {
         background: none;
         border: none; } }
 
-/* navbar brand 
+/* navbar brand
 ........................... */
 .hnav .navbar-brand {
   display: block;
@@ -1602,7 +1602,7 @@ input[type="checkbox"] {
     padding-right: 30px;
     margin-right: 15px; }
 
-/* navbar toggle 
+/* navbar toggle
 ........................... */
 .hnav .navbar-toggle {
   padding: 0;
@@ -2483,7 +2483,7 @@ section-title.invert-colors, .dark-bg .section-title {
       margin: 0 auto; }
       .error-block form.search input, .error-block form.search .btn, .error-block.wider form.search input, .error-block.wider form.search .btn {
         width: 100%; } }
-/* COLOR ICONS 
+/* COLOR ICONS
 --------------------------------------------------- */
 .color-icons [class*="-facebook"] {
   color: #5371AD; }
@@ -3456,7 +3456,7 @@ ul.tags {
     background: #218C8D;
     color: #fff; }
 
-/* BXSLIDER CUSTOM 
+/* BXSLIDER CUSTOM
 ------------------------------------------- */
 .bx-wrapper {
   position: relative;
@@ -3475,7 +3475,7 @@ ul.tags {
     left: 0;
     z-index: 410; }
 
-/* LAYERS 
+/* LAYERS
 --------------------------------------------*/
 .bx-wrapper .bx-layer {
   visibility: hidden; }
@@ -4627,5 +4627,5 @@ table.cart-contents {
     width: 150px; }
   @media (max-width: 767px) {
     #style-switcher {
-      display: none; } 
+      display: none; }
     }
