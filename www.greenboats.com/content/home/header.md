@@ -39,7 +39,7 @@ menuitem_title6 = "Contact Us"
 menuitem_link6 ="/contact-us"
 
 menuitem_title7 = "/images/greencharters-logo.png"
-menuitem_link7 ="/"
+menuitem_link7 ="http://greencharters.com"
 
 
 +++
