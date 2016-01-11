@@ -1,0 +1,34 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+
+<div class="container marketing">
+  <div class="container">
+    <div class="row-fluid page-content">
+       <div class="span3">
+       </div>
+    </div>
+		<div class="span12">
+		<h2 class="title">{{.Title}}</h2>
+      <div class="container-fluid">
+        <ul class="portfolio-grid row mgb-30">
+          {{ range $element :=  .Params.gallery_images }}
+              <li data-type="web" class="span2">
+                <div class="fader project">
+                  <img alt="photo" src="/images/gallery/sailing/thumb/{{ $element }}">
+                  <div class="fader-hidden pcolor-bg">
+                    <div class="vcenter align-center">
+                      <div class="vcenter-this project-links">
+                        <a href="/images/gallery/sailing/{{ $element }}" data-gal="prettyPhoto"><i class="fa fa-expand resize"></i></a>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            {{end}}
+        </ul>
+      </div>
+		</div>
+  </div>
+  {{ partial "footer.html" . }}
+</div>
