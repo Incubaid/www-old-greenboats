@@ -11,14 +11,16 @@
 		<h2 class="title">{{.Title}}</h2>
       <div class="container-fluid">
         <ul class="portfolio-grid row mgb-30">
-          {{ range $element :=  .Params.gallery_images }}
+          {{ $thumb_images_path := .Params.thumb_images_path }}
+          {{ $large_images_path := .Params.large_images_path }}
+          {{ range $image_name :=  .Params.gallery_images }}
               <li data-type="web" class="span2">
                 <div class="fader project">
-                  <img alt="photo" src="/images/gallery/sailing/thumb/{{ $element }}">
+                  <img alt="photo" src="{{$thumb_images_path}}{{ $image_name }}">
                   <div class="fader-hidden pcolor-bg">
                     <div class="vcenter align-center">
                       <div class="vcenter-this project-links">
-                        <a href="/images/gallery/sailing/{{ $element }}" data-gal="prettyPhoto"><i class="fa fa-expand resize"></i></a>
+                        <a href="{{$large_images_path}}{{ $image_name }}" data-gal="prettyPhoto[portfolio]"><i class="fa fa-expand resize"></i></a>
 
                       </div>
                     </div>
