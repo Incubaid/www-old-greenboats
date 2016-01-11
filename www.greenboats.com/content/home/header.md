@@ -11,7 +11,7 @@ menuitem_link1 ="/"
 
 
 sub_menuitem_title2_2 = "Specifications"
-sub_menuitem_link2_2 ="/greenboats/specifications"
+sub_menuitem_link2_2 ="/specifications"
 
 
 sub_menuitem_title2_4 = "Compare"
