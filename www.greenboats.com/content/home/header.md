@@ -39,9 +39,8 @@ menuitem_title6 = "Contact Us"
 menuitem_link6 ="/contact-us"
 
 menuitem_title7 = "/images/greencharters-logo.png"
-# link to GreenCharters temporary until move into production
-# need to change link to http://greencharters.com later
-menuitem_link7 ="http://new-greencharters.aydo.com:4529/"
+
+menuitem_link7 ="http://greencharters.com"
 
 
 +++
