@@ -3,7 +3,7 @@ http://gig-new-greenboats.aydo.com:3823 {
     gzip
     root www.greenboats.com/en
     git {
-       repo git@git.aydo.com:static-websites/www-new-greenboats.git
+       repo git@github.com:codescalers/www-new-greenboats.git
        interval 300
        key ../keys/id_rsa
        path ../..
